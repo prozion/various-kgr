@@ -1,0 +1,266 @@
+university keys-order:alt-id,lat-id,deabbr,abbr,rus-abbr,name,nick,hq,start,url,part-of,member,merged-to,merge-of,ref
+	africa
+		south_africa
+			UStellenbosch name:"Stellenbosch University" hq:Stellenbosch start:1918
+	asia
+		israel
+			Technion name:"Technion–Israel Institute of Technology" hq:Haifa start:1912
+		japan
+			OIST alt-id:OkinawaIST name:"Okinawa Institute of Science and Technology" hq:Onna country:Japan
+			Tokyo_Medical_and_Dental_University alt-id:TMDU hq:Tokyo
+			UKeio name:"Keio University" hq:Tokyo
+			UKyoto name:"Kyoto University" nick:Kyodai hq:Kyoto
+			TWMU deabbr:"Tokyo Women's Medical University" hq:Tokyo start:1900
+		singapore
+			NUSingapore deabbr:"National University of Singapore" hq:Singapore start:1905,1980
+		south_korea
+			GIST name:"Gwangju Institute of Science and Technology" hq:Gwangju
+		taiwan
+			Academia_Sinica hq:Taipei start:1928,1949
+		turkey
+			UBilkent name:"UBilkent University" hq:Ankara
+	europe
+		belgium
+			KULeuven name:"Katholieke Universiteit Leuven" hq:Leuven start:1425
+			UBrussels name:"Free University of Brussels" hq:Brussels start:1834
+			ULB name:"Université Libre de Bruxelles" start:1969 part-of:UBrussels
+			UGhent hq:Ghent start:1817
+			VUB alt-id:UVrijeBrussel name:"Vrije Universiteit Brussel" start:1969 part-of:UBrussels
+		czech_republic
+			USBE deabbr:"Institute of Systems Biology and Ecology" hq:Brno old-url:usbe.cas.cz
+		england
+			Imperial_College_London hq:London start:1907 url:imperial.ac.uk
+			QCollege name:"The Queen's College" hq:Oxford start:1341
+			UBristol name:"University of Bristol" hq:Bristol start:1595,1876,1909
+			UCambridge hq:Cambridge start:~1209
+			UCLondon name:"University College London" hq:London start:1826 syn:UCL
+			UHertfordshire hq:Hertfordshire start:1952
+			UKent hq:Canterbury start:1965
+			ULondon hq:London start:1836
+			UManchester name:"University of Manchester" hq:Manchester start:1824
+			UOxford hq:Oxford start:~1096
+			VUManchester name:"Victoria University of Manchester" hq:Manchester start:1851 merged-to:UManchester
+		finland
+			UHelsinki hq:Helsinki start:1640
+		france
+			ENS_Paris name:"Ecole Normale Superieure" type:private hq:Paris start:1794
+			UCBL name:"Université Claude Bernard Lyon 1" type:public hq:Lyon start:1971
+			UClermont name:"University of Auvergne" hq:Clermont-Ferrand
+		germany
+			FSU deabbr:"Friedrich Schiller-University Jena" hq:Jena start:1558
+			KIT deabbr:"Karlsruhe Institute of Technology" hq:Karlsruhe start:1825
+			Martin_Luther_University name:"Martin Luther University Halle-Wittenberg" hq:Halle start:1502
+			MPIMP deabbr:"Max Planck Institute of Molecular Plant Physiology" hq:Potsdam start:1994
+			RWTH_Aachen_University name:"Rheinisch-Westfälische Technische Hochschule Aachen" hq:Aahen start:1870
+			TUBerlin name:"Technical University of Berlin" hq:Berlin start:1879
+			TUDresden name:"Dresden University of Technology" hq:Dresden start:1828 url:tu-dresden.de
+			TUMunich name:"Technical University of Munich" hq:Munich start:1868
+			UBielefeld hq:Bielefeld start:1969 url:uni-bielefeld.de d:"'reform' university"
+			UFreiburg name:"University of Freiburg" hq:Freiburg_im_Breisgau start:1457
+			UGottingen name:"University of Göttingen" hq:Gottingen
+			UHeidelberg name:"University of Heidelberg" hq:Heidelberg
+			UHumboldt name:"Humboldt University of Berlin" hq:Berlin
+			UKonstanz name:"University of Konstanz" hq:Konstanz
+			ULeipzig hq:Leipzig start:1409
+			UMannheim hq:Mannheim start:1967
+			URostock name:"University of Rostock" hq:Rostock
+			UTubingen name:"University of Tübingen" hq:Tubingen
+		greece
+			UCrete name:"University of Crete" hq:Rethymnon,Heraklion start:1973 url:uoc.gr
+		iceland
+			UIceland deabbr:"University of Iceland" hq:Reykjavik start:1911
+		italy
+			UFlorence name:"University of Florence" hq:Florence
+			UPadua name:"University of Padua" hq:Padua
+			URome name:"Sapienza University of Rome" hq:Rome start:1303
+			URome2 alt-id:Tor_Vergata name:"University of Rome Tor Vergata" hq:Rome start:1982
+		luxembourg
+			ULuxembourg name:"University of Luxembourg" hq:Esch-sur-Alzette
+		netherlands
+			UMaastricht name:"Maastricht University" hq:Maastricht
+			UNijmegen name:"Radboud University Nijmegen" hq:Nijmegen start:1923
+			UVrije_Amsterdam name:"Vrije Universiteit Amsterdam" hq:Amsterdam
+			WUR name:"Wageningen University and Research Centre" hq:Wageningen
+		northern_ireland
+			UUlster name:"Ulster University" hq:Coleraine,Belfast,Jordanstown,Derry
+		norway
+			NTNU name:"Norwegian University of Science and Technology" hq:Trondheim
+			UiB name:"University of Bergen" hq:Bergen
+		poland
+			UWroclaw name:"University of UWroclaw" hq:Wroclaw start:1702 former-name:"Universität Breslau"
+		russia
+			ГИИ deabbr:"Государственный институт искусствознания" hq:Москва start:1944
+			ВШЭ alt-id:HSE name:"Высшая Школа Экономики" hq:Moscow campus:Moscow,Saint-Petersburg,Nizhny_Novgorod,Perm start:1992 url:hse.ru 
+			ИГУ alt-id:ISU name:"Иркутский государственный университет" hq:Иркутск start:1918
+			МАИ alt-id:MAI name:"Московский Авиационный Институт" hq:Moscow start:1930 url:mai.ru
+			МГБИ alt-id:Московский_Библиотечный_Институт renamed-to:МГИК:2014
+			МГТУ_Баумана nick:Бауманка name:"Московский государственный технический университет им.Н.Э.Бaумана" hq:Moscow start:1830
+			МГУ alt-id:MSU name:"Московский государственный университет" hq:Moscow start:1755
+			МИФИ alt-id:MEPhI name:"Московский инженерно-физический институт" hq:Moscow start:1942
+			МИЭТ alt-id:MIEE rus-abbr:МИЭТ hq:Zelenograd start:1965
+			МПУ alt-id:Политех name:"Московский Политехнический Университет" hq:Moscow start:2016 merge-of:МАМИ,МГУП_им_Ивана_Федорова address:"Большая Семеновская 38"
+			МФТИ alt-id:MIPT nick:Физтех hq:Dolgoprudny start:1951
+			МЭИ alt-id:MPEI name:"Московский Энергетический Институт" hq:Moscow start:1930
+			РГУ deabbr:"Ростовский Государственный Университет" hq:Rostov-on-Don start:1916 end:2006
+			РГУПС alt-id:RSTU name:"Rostov State Transport University" hq:Ростов-на-Дону
+			РЭУ alt-id:REA name:"Российский экономический университет имени Г.В.Плеханова" nick:Плехановка,Плешка hq:Moscow start:1903
+			Cамарский_Университет alt-id:USamara name:"Самарский национальный исследовательский университет имени академика С.П.Королева" hq:Samara
+			CПбГУ alt-id:SPBU name:"Санкт-Петербургский Государственный Университет" hq:Saint-Petersburg start:1724,1819 url:spbu.ru
+			СФУ deabbr:"Сибирский Федеральный Университет" hq:Krasnoyarsk start:2006
+			ЮУГУ alt-id:SUSU name:"South Ural State University" hq:Chelyabinsk id-ru:ЮУГУ,ЧГТУ
+			ЮФУ alt-id:SFedU deabbr:"Южный Федеральный Университет" hq:Rostov-on-Don
+			ИКТИБ alt-id:ICTIS deabbr:"Институт Компьютерных Технологий и Информационной Безопасности" hq:Taganrog part-of:ЮФУ
+			ИТМО alt-id:IFMO deabbr:"Университет Информационных Технологий, Механики и Оптики" hq:Saint-Petersburg start:1900
+			ИФБиБТ deabbr:"Институт фундаментальной биологии и биотехнологии" hq:Krasnoyarsk start:2007 part-of:СФУ url:bio.sfu-kras.ru
+		scotland
+			UEdinburgh name:"University of Edinburgh" hq:Edinburgh start:1582
+			UEMS name:"University of Edinburgh Medical School" hq:Edinburgh	part-of:UEdinburgh
+		spain
+			TUMadrid name:"Technical University of Madrid" hq:Madrid start:1971
+			UAlicante deabbr:"University of Alicante" hq:Alicante start:1979	
+			UMalaga name:"University of Malaga" hq:Malaga start:1972
+		sweden
+			Chalmers name:"Chalmers University of Technology" hq:Gothenburg start:1829
+			Karolinska_Institutet en-name:"Royal Caroline Institute" hq:Solna start:1810
+			KTH deabbr:"Kungliga Tekniska högskolan" name:"KTH Royal Institute of Technology" hq:Stockholm start:1827
+			ULinkoping name:"Linköping University" hq:Linkoping start:1969
+		switzerland
+			EPFL name:"École polytechnique fédérale de Lausanne" hq:Ecublens start:1853
+			ETH_Zurich name:"Swiss Federal Institute of Technology" hq:Zurich start:1855
+		ukraine
+			КПИ alt-id:ISKPI name:"Igor Sikorsky Kyiv Polytechnic Institute" hq:Kiev start:1898
+			ХНУРЭ alt-id:NURE,KhSTUR name:"Харківський національний університет радіоелектроніки" hq:Kharkiv url:nure.ua
+	north_america
+		canada
+			UBColumbia name:"University of British Columbia" hq:Vancouver start:1908
+			UToronto name:"University of Toronto" hq:Toronto start:1827
+		usa
+			AK ; Alaska
+			AL ; Alabama
+			AR ; Arkansas
+			AZ ; Arizona
+			CA ; California
+				Caltech alt-id:CIT name:"California Institute of Technology" hq:Pasadena start:1891				
+				Carnegie_Mellon_Silicon_Valley hq:Mounatain_View start:2002 part-of:UCarnegieMellon
+				CIT alt-id:Caltech name:"California Institute of Technology" hq:Pasadena start:1891
+				UCalifornia name:"University of California" hq:Oakland start:1868
+				UC_Berkeley name:"University of California, Berkeley" hq:Berkeley part-of:UCalifornia
+				UCSC alt-id:UC_Santa_Cruz deabbr:"University of California Santa Cruz" hq:Santa_Cruz start:1965 part-of:UCalifornia
+				UCSD alt-id:UC_San_Diego deabbr:"University of California San Diego" hq:San_Diego start:1903,1960 part-of:UCalifornia
+				USouthernCalifornia alt-id:USC name:"University of Southern California" hq:Los_Angeles
+				UStanford name:"Stanford University" hq:Stanford start:1891
+			CO ; Colorado
+				UColorado hq:Denver start:1876
+			CT ; Connecticut
+				UConn alt-id:UConnecticut name:"University of Connecticut" hq:Storrs,Mansfield
+				UConn_Health name:"University of Connecticut Health Center" hq:Farmington url:health.uconn.edu part-of:UConn
+				UYale name:"Yale University" hq:New_Haven start:1701 member:Ivy_League
+			DC ; DC Columbia
+				Georgetown_University hq:Washington
+			DE ; Delaware
+			FL ; Florida
+			GA ; Georgia
+			HI ; Hawaii
+			IA ; Iowa
+			ID ; Idaho
+			IL ; Illinois
+				IIT name:"Illinois Institute of Technology" hq:Chicago start:1890
+				NU alt-id:Northwestern_University hq:Evanston start:1851
+				UChicago name:"University of Illinois at Chicago" hq:Chicago start:1965 part-of:UIllinois
+				UIllinois
+				USpringfield name:"University of Illinois at Springfield" hq:Springfield start:1969 part-of:UIllinois
+				UUrbana-Champaign name:"University of Illinois at Urbana–Champaign" hq:Urbana,Champaign start:1867 part-of:UIllinois
+			IN ; Indiana
+			KS ; Kansas
+			KY ; Kentucky
+			LA ; Louisiana
+				LUNO deabbr:"Loyola University New Orleans" hq:New_Orleans start:1904
+			MA ; Massachusetts
+				Harvard_Medical_School hq:Boston start:1782 part-of:UHarvard
+				MIT name:"Massachusetts Institute of Technology" hq:Cambridge_MA start:1861
+				UHarvard name:"Harvard University" hq:Cambridge_MA start:1636 member:Ivy_League
+				UMass name:"University of Massachusetts" hq:Amherst start:1863,1964
+				UMassMed alt-id:UMMS deabbr:"University of Massachusets Medical School" hq:Worcester start:1962 part-of:UMass
+				UMass_Amherst name:"University of Massachusetts Amherst" hq:Amherst start:1863
+			MD ; Maryland
+				UJohnsHopkins name:"Johns Hopkins University" hq:Baltimore start:1876
+				UMaryland name:"University of Maryland, College Park" hq:College_Park start:1856
+			ME ; Men
+			MI ; Michigan
+				UMichigan name:"University of Michigan" hq:Ann_Arbor start:1817
+			MN ; Minnesota
+				UMinnesota deabbr:"University of Minnesota" hq:Minneapolis,Saint_Paul start:1851
+			MO ; Missouri
+				WUSM deabbr:"Washington University School of Medicine" part-of:WUSTL start:1891
+				WUSTL alt-id:WashU deabbr:"Washington University in St. Louis" hq:St.Louis start:1853
+				UMissouri alt-id:Mizzou deabbr:"University of Missouri" hq:Columbia start:1839
+			MS ; Mississippi
+			MT ; Montana
+			NC ; North Carolina
+			ND ; North Dakota
+			NE ; Nevada
+			NH ; New Hampshire
+				CDartmouth name:"Dartmouth College" hq:Hanover start:1769 member:Ivy_League
+			NJ ; New Jersey
+				UPrinceton name:"Princeton University" hq:Princeton start:1746 member:Ivy_League
+			NM ; New Mexico
+				UNMexico name:"University of New Mexico" hq:Albuquerque start:1889
+			NV ; Nevada
+			NY ; New York
+				CIMS name:"Courant Institute of Mathematical Sciences" hq:New_York start:1935 part-of:NYU
+				NYU name:"New York University" hq:New_York start:1831
+				RPI name:"Rensselaer Polytechnic Institute" hq:Troy start:1824
+				StJohnsU name:"St. John's University" hq:New_York state:NY
+				SUNY name:"State University of New York" hq:New_York start:1948
+				UBuffalo name:"University of Buffalo" hq:Buffalo
+				UColumbia name:"Columbia University" hq:New_York start:1754 member:Ivy_League
+				UCornell name:"Cornell University" hq:Ithaca start:1865 member:Ivy_League
+				UStonyBrook name:"State University of New York at Stony Brook" hq:Stony_Brook start:1957
+			OH ; Ohio
+				UOhio alt-id:OSU name:"Ohio State University" hq:Columbus start:1870
+				UWright name:"Wright State University" hq:Fairborn start:1967
+			OK ; Oklahoma
+			OR ; Oregon
+				OregonHSU name:"Oregon Health & Science University" hq:Portland
+				Reed_College hq:Portland start:1908
+			PA ; Pennsylvania
+				UCarnegieMellon name:"Carnegie Mellon University" hq:Pittsburgh start:1900
+				UPenn alt-id:UPennsylvania name:"University of Pennsylvania" hq:Philadelphia start:1740 member:Ivy_League
+			RI ; Rod Island
+				UBrown name:"Brown University" hq:Providence start:1764 member:Ivy_League
+			SC ; South Carolina
+			SD ; South Dakota
+			TN ; Tennessee
+			TX ; Texas
+				TrinityUniversity name:"Trinity University" hq:San_Antonio start:1869
+				URice hq:Houston start:1912
+				UTexas hq:Austin start:1883
+			UT ; Utah
+				Brigham_Young_University alt-id:BYU hq:Provo start:1875
+				UUTah hq:Salt_Lake_City start:1850 url:utah.edu
+			VA ; Virginia
+				UVirginia alt-id:UVA name:"University of Virginia" hq:Charlottesville start:1819
+				VirginiaIU alt-id:Virginia_Tech name:"Virginia Polytechnic Institute and State University" hq:Blacksburg
+			VT ; Vermont
+			WA ; Washington
+				UWashington hq:Seattle start:1861
+				WashingtonSU short-id:WSU hq:Pullman start:1890
+			WI ; Wisconsin
+			WV ; West Virginia
+			WY ; Wyoming
+	oceania
+		australia
+			La_Trobe_University hq:Melbourne start:1967
+			UMelbourne name:"University of Melbourne" hq:Melbourne start:1853
+			UMonash name:"Monash University" hq:Melbourne start:1958
+			UMurdoch name:"Murdoch University" hq:Perth start:1973 campus:Singapore,Dubai
+			UNSW name:"The University of New South Wales" hq:Sydney start:1949
+			UQ deabbr:"University of Queensland" hq:Brisbane start:1909	
+			USydney name:"University of Sydney" hq:Sydney start:1850
+		new_zealand
+			UAuckland name:"University of Auckland" hq:Auckland start:1883
+			UWellington name:"Victoria University of Wellington" hq:Wellington start:1897
+	south_america
+		brazil
+			FUES deabbr:"Federal University of Espírito Santo" hq:Vitoria start:1954
+			PUC-Rio deabbr:"Pontifical Catholic University of Rio de Janeiro" hq:Rio_de_Janeiro start:1940 url:puc-rio.br

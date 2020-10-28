@@ -1,0 +1,38 @@
+academic_search_engines
+	Google_Scholar url:scholar.google.com owner:Google start:2004
+	Microsoft_Academic start:2012,2016 owner:Microsoft
+	Scirus start:2001 end:2014 owner:Elsevier
+	SciSearch url:stn-international.com/scisearch.html
+citation_databases
+	CiteSeer url:citeseerx.ist.psu.edu owner:UPenn start:2007
+	Index_Copernicus start:1999 owner:Index_Copernicus_International url:indexcopernicus.com
+	Pubmed ref:systems_biology/databases
+	Scopus owner:Elsevier url:scopus.com start:2004
+	WOS alt-id:Web_of_Science owner:Clarivate_Analytics url:webofknowledge.com start:2016
+	РИНЦ deabbr:"Российский индекс научного Цитирования" developer:ELibrary url:elibrary.ru
+companies
+	Clarivate_Analytics hq:Philadelphia start:2016 
+	ISI name:"Institute for Scientific Information" hq:Philadelphia start:1960 acquired-by:Thomson_Scientific_and_Healthcare:1992:->Thomson_ISI
+	Thomson_ISI sold-as:Clarivate_Analytics:2016
+citation_indexes
+	AHCI deabbr:"Arts and Humanities Citation Index" developer:ISI
+	CSCI deabbr:"Chinese Science Citation Index" start:1987
+	CDJP deabbr:"Citation Database for Japanese Papers" start:1995 developer:NII
+	G-Index start:2006 developer:Leo_Egghe formule:`(constraint <= (* g g) (apply + (take (sort citation-numbers >) g)))`
+	H-Index alt-id:Hirsch_Index start:2005 developer:Jorge_Hirsch formule:`(apply max (map min (by-index (sort citation-numbers >) 0)))`
+	I-Index start:2006 developer:Marek_Kosmulsky,Gangan_Prathap uses:H-Index
+	K-Index alt-id:Kardashian_Index start:2014 named-after:Kim_Kardashian formule:`(let ([estimated-followers (λ (c) (* 43.3 (expt c 0.32)))]) (/ real-followers (estimated-followers number-of-citations)))`
+	Scopus_Index developer:Scopus
+	SCI deabbr:"Science Citation Index" developer:Eugene_Garfield org:ISI start:1964
+	SJR deabbr:"SCImago Journal Rank"
+	SSCI deabbr:"Social Sciences Citation Index" developer:ISI
+	Web_of_Science_Index developer:Web_of_Science
+	РИНЦ_Index
+	УНЦ deabbr:"Указатель Научного Цитирования" start:1974 developer:VINITI
+author_ids
+	ORCID deabbr:"Open Researcher and Contributor ID" url:orcid.org start:2012
+	ResearcherID url:researcherid.com start:2008 developer:Thomson_Reuters
+	Scopus_AuthorID system:Scopus
+	SPIN_РИНЦ system:РИНЦ
+social_networks
+	ResearchGate url:researchgate.net

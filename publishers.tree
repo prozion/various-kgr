@@ -1,0 +1,35 @@
+publishers
+	europe
+		england
+			BMC name:"BioMed Central" hq:London start:2000 part-of:Springer_Nature
+			Cambridge_University_Press hq:Cambridge start:1534
+			Nature_Research former-name:Nature_Publishing_Group hq:London start:1869 part-of:Springer_Nature
+			Oxford_University_Press hq:Oxford start:1586
+			The_Royal_Society start:1660 hq:London ref:organizations
+		germany
+			Holtzbrinck_Publishing_Group hq:Stuttgart merged-to:Springer_Nature:2015
+			Springer_Nature hq:Berlin,Heidelberg start:2015 merged-from:Holtzbrinck_Publishing_Group,Springer_Science
+		netherlands
+			Elsevier name:"Elsevier Ltd." hq:Amsterdam start:1880
+			IOS_Press hq:Amsterdam start:1987 member-of:STM
+			IOS_Press_Inc subsidiary-of:IOS_Press hq:Washington start:1990
+		russia
+			Elibrary name:"Научная электронная библиотека" hq:Moscow
+			Альпина_Паблишер
+			Омега-Л hq:Moscow
+	north_america
+		canada
+			Thomson_Reuters name:"Thomson Reuters Corporation" hq:Toronto
+		usa
+			Cell_Press start:1986 hq:Cambridge_MA parent:Elsevier
+			Cold_Spring_Harbor_Laboratory_Press start:1933 hq:New_York parent:Cold_Spring_Harbor_Laboratory
+			John_Wiley_and_Sons short-id:Wiley start:1807 hq:Hoboken
+			JSB ref:organizations
+			Mary_Ann_Liebert name:"Mary Ann Liebert, Inc." hq:New_Rochelle
+			NAS ref:organizations
+			PLOS deabbr:"Public Library of Science" hq:San_Francisco start:2000,2003
+			Taylor_and_Francis_Group start:1852 hq:Abingdon
+			John_Wiley_and_Sons alt-id:Wiley name:"John Wiley & Sons" hq:Hoboken
+			Wiley-Blackwell start:1922 hq:Hoboken parent:John_Wiley_and_Sons
+			
+			

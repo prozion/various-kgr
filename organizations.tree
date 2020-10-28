@@ -1,0 +1,82 @@
+organization keys-order:alt-id,lat-id,deabbr,abbr,rus-abbr,name,former-name,nick,hq,formation-place,organization,part-of,member,merged-to,merge-of,start,end,founder,url,type,ref
+	community_of_practice
+		TEI deabbr:"Text Encoding Initiative"
+	consortium +section-hierarchy-relation:member-of
+		ACAA name:"Ada Conformity Assessment Authority" hq:Madison
+		ACM name:"Association for Computing Machinery" hq:New_York start:1947
+		Ada_Europe start:1988
+		ASA deabbr:"American Standards Association"
+		CODASYL name:"Conference/Committee on Data Systems Languages (CODASYL)" start:1959 type:consortium
+		ECMA deabbr:"European Computer Manufacturers Association" name:"ECMA International" hq:Geneva start:1961
+		Gene_Ontology_Consortium url:geneontology.org
+		HUPO deabbr:"Human Proteome Organization"
+		STM deabbr:"International Association of Scientific, Technical and Medical Publishers" hq:Hague,Oxford start:1994
+		IEC name:"International Electrotechnical Commission" hq:Geneva start:1906
+		ISO name:"International Organization for Standardization (ISO)" hq:Geneva start:1947
+		ITU alt-id:CCITT name:"International Telecommunication Union" former-name:"Comité Consultatif International Téléphonique et Télégraphique" hq:Geneva start:1865
+		NEDO name:"New Energy and Industrial Technology Development Organization" hq:Kawasaki
+		OMG deabbr:"Object Management Group" hq:Needham start:1989 
+		WormBase_Consortium start:2000
+		W3C name:"World Wide Web Consortium (W3C)" hq:Cambridge_MA formation-place:London start:1994 uni:MIT
+			SIGPLAN deabbr:"Special Interest Group on programming languages"
+	government +section-hierarchy-relation:part-of
+		great_britain
+			CCTA deabbr:"Central Computer and Telecommunications Agency" hq:Norwich start:1957
+			GCHQ name:"Government Communications Headquarter" hq:Cheltenham start:1919
+		japan
+			AMED deabbr:"Japan Agency for Medical Research and Development" hq:Tokyo start:2015
+			JST name:"Japan Science and Technology Agency"
+			MEXT deabbr:"Ministry of Education, Culture, Sports, Science and Technology" hq:Tokyo start:1871,2001
+		united_kingdom
+			BBSRC deabbr:"Biotechnology and Biological Sciences Research Council" hq:Swindon start:1994
+			MRC alt:BMRC deabbr:"British Medical Research Council" part-of:UKRI hq:Swindon start:1913
+			UKRI deabbr:"United Kingdom Research and Innovation" hq:Swindon start:2018 addr:Polaris_House
+		usa
+			NHGRI deabbr:"National Human Genome Research Institute" hq:Bethesda start:1988
+			NIH name:"National Institutes of Health" hq:Bethesda start:1887
+				NLM deabbr:"US National Library of Medicine" hq:Bethesda start:1836
+					NCBI deabbr:"National Center for Biotechnology Information" hq:Bethesda start:1988
+			NIST name:"National Institute of Standards and Technology" hq:Gaithersburg start:1901
+			US_Defense name:"United States Department of Defense" hq:Washington start:1947
+			US_Energy name:"United States Department of Energy"
+			US_Navy name:"United States Navy" hq:Washington start:1775
+	informal_groups
+		Blue_Obelisk start:2005 url:blueobelisk.github.io
+		CADIS
+		GNU_PROJECT organization:FSF start:1983 founder:Richard_Stallman
+			GNOME name:"The GNOME Project" start:1997
+		Graphdrawing start:2012 type:inter-uni
+		SHARE start:1955 type:"user group"
+		The_phpMyAdmin_Project
+		The_Rakudo_Team url:goo.gl/vdAUnS
+	intergovernmental_organization
+		UN deabbr:"United Nations" hq:New_York start:1945
+	ngo
+		Alliance_of_Genome_Resources url:alliancegenome.org
+		Evolutionary_Software_Foundation alt-id:ESF deabbr:"Evolutionary Software Foundation" hq:Berkeley
+		OpenWorm_Foundation hq:Dover_DE start:2015
+	nonprofit_organization
+		FSF name:"Free Software Foundation" hq:Boston start:1985
+		ISCB name:"International Society for Computational Biology" hq:Bethesda
+		WikiPathways
+	research_organization
+		CERN name:"European Organization for Nuclear Research" hq:Meyrin start:1954
+	scientific_society
+		ACS deabbr:"American Chemistry Society" hq:Washington start:1876
+		ISCB name:"International Society for Computational Biology" hq:Bethesda url:iscb.org
+		ISSB name:"International Society for Systems Biology" url:issb.org
+		IUBMB deabbr:"International Union of Biochemistry and Molecular Biology" start:1955
+		JSB deabbr:"Japanese Society for Bioinformatics" start:1999 hq:Tokyo
+		NAS deabbr:"National Academy of Sciences" start:1863 hq:Washington
+		RSC deabbr:"Royal Society of Chemistry" start:1841,1980 hq:London
+	standartization_group
+		HUPO-PSI deabbr:"HUPO Proteomics Standards Initiative" part-of:HUPO	
+	user_group
+	; users from different companies by their own initiative or users from different universities by their own initiative (inter-corp, inter-uni and inter-mixed)
+		SHARE type:"user group" start:1955
+		GNU_PROJECT founder:Richard_Stallman organization:FSF start:1983
+			GNOME name:"The GNOME Project" start:1997
+		The_Rakudo_Team url:goo.gl/vdAUnS
+		The_phpMyAdmin_Project
+		Graphdrawing start:2012 type:inter-uni
+		CADIS
