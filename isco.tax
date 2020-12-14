@@ -1,0 +1,874 @@
+ ; ПРОФЕССИИ
+; following ISCO-08 ;
+
+isco_1 ;	Managers
+	isco_11 ;	Chief executives, senior officials and legislators
+		isco_111 ;	Legislators and senior officials
+			isco_1111 ;	Legislators
+				думский_депутат
+				региональный_депутат
+				муниципальный_депутат
+					_глава_совета_депутатов
+			isco_1112 ;	Senior government officials
+				ext_isco_11121 ; федеральное министерство РФ
+					федеральный_министр
+					заместитель_федерального_министра
+					глава_департамента_федерального_министерства
+				ext_isco_11122 ; региональное министерство РФ
+					региональный_министр
+					заместитель_регионального_министра
+					глава_департамента_регионального_министерства
+			isco_1113 ;	Traditional chiefs and heads of village
+				глава_муниципального_образования
+			isco_1114 ;	Senior officials of special-interest organizations
+		isco_112 ;	Managing directors and chief executives
+			isco_1120 ;	Managing directors and chief executives
+				руководитель
+					_генеральный_директор
+					_директор
+					_заместитель_директора
+					_CEO
+					_ректор
+					_поректор
+					_декан
+					_завкафедрой
+				руководитель_партии
+					_председатель_партии
+					_заместитель_председателя_партии
+				руководитель_политического_штаба
+					_председатель_штаба
+					_заместитель_председателя_штаба
+	isco_12 ;	Administrative and commercial managers
+		isco_121 ;	Business services and administration managers
+			isco_1211 ;	Finance managers
+			isco_1212 ;	Human resource managers
+				менеджер_по_персоналу
+				HR_менеджер
+			isco_1213 ;	Policy and planning managers
+			isco_1219 ;	Business services and administration managers not elsewhere classified
+				глава_отдела_администрации_муниципалитета
+		isco_122 ;	Sales, marketing and development managers
+			isco_1221 ;	Sales and marketing managers
+				мерчандайзер
+			isco_1222 ;	Advertising and public relations managers
+			isco_1223 ;	Research and development managers
+	isco_13 ;	Production and specialised services managers
+		isco_131 ;	Production managers in agriculture, forestry and fisheries
+			isco_1311 ;	Agricultural and forestry production managers
+			isco_1312 ;	Aquaculture and fisheries production managers
+		isco_132 ;	Manufacturing, mining, construction, and distribution managers
+			isco_1321 ;	Manufacturing managers
+			isco_1322 ;	Mining managers
+				начальник_участка
+			isco_1323 ;	Construction managers
+			isco_1324 ;	Supply, distribution and related managers
+				логист
+		isco_133 ;	Information and communications technology service managers
+			isco_1330 ;	Information and communications technology service managers
+				руководитель_IT
+		isco_134 ;	Professional services managers
+			isco_1341 ;	Child care services managers
+			isco_1342 ;	Health services managers
+			isco_1343 ;	Aged care services managers
+			isco_1344 ;	Social welsportfare managers
+			isco_1345 ;	Education managers
+			isco_1346 ;	Financial and insurance services branch managers
+			isco_1349 ;	Professional services managers not elsewhere classified
+	isco_14 ;	Hospitality, retail and other services managers
+		isco_141 ;	Hotel and restaurant managers
+			isco_1411 ;	Hotel managers
+			isco_1412 ;	Restaurant managers
+		isco_142 ;	Retail and wholesale trade managers
+			isco_1420 ;	Retail and wholesale trade managers
+		isco_143 ;	Other services managers
+			isco_1431 ;	Sports, recreation and cultural centre managers
+			isco_1439 ;	Services managers not elsewhere classified
+isco_2 ;	Professionals
+	isco_21 ;	Science and engineering professionals
+		isco_211 ;	Physical and earth science professionals
+			isco_2111 ;	Physicists and astronomers
+				физик
+				астроном
+			isco_2112 ;	Meteorologists
+				метеоролог
+			isco_2113 ;	Chemists
+				химик
+			isco_2114 ;	Geologists and geophysicists
+				геолог
+				геофизик
+		isco_212 ;	Mathematicians, actuaries and statisticians
+			isco_2120 ;	Mathematicians, actuaries and statisticians
+				математик
+					вычислительный_математик
+				статистик
+		isco_213 ;	Life science professionals
+			isco_2131 ;	Biologists, botanists, zoologists and related professionals
+				биолог
+			isco_2132 ;	Farming, forestry and fisheries advisers
+			isco_2133 ;	Environmental protection professionals
+				инженер-эколог
+		isco_214 ;	Engineering professionals (excluding electrotechnology)
+			isco_2141 ;	Industrial and production engineers
+				инженер-наладчик
+			isco_2142 ;	Civil engineers
+				прораб
+			isco_2143 ;	Environmental engineers
+			isco_2144 ;	Mechanical engineers
+			isco_2145 ;	Chemical engineers
+			isco_2146 ;	Mining engineers, metallurgists and related professionals
+				горный_инженер
+			isco_2149 ;	Engineering professionals not elsewhere classified
+				инженер_по_сопровождению_производства
+		isco_215 ;	Electrotechnology engineers
+			isco_2151 ;	Electrical engineers
+				инженер_КИПиА
+				разработчик_измерительного_оборудования
+			isco_2152 ;	Electronics engineers
+				разработчик_интегральных_схем
+				инженер-электроник
+				тестировщик_электронного_оборудования
+			isco_2153 ;	Telecommunications engineers
+				инженер_телекоммуникаций
+		isco_216 ;	Architects, planners, surveyors and designers
+			isco_2161 ;	Building architects
+				строительный_архитектор
+				дизайнер_интерьеров
+			isco_2162 ;	Landscape architects
+				ландшафтный_архитектор
+				ландшафтный_дизайнер
+			isco_2163 ;	Product and garment designers
+				дизайнер_одежды
+				дизайнер_материалов
+			isco_2164 ;	Town and traffic planners
+			isco_2165 ;	Cartographers and surveyors
+				картограф
+				геодезист
+			isco_2166 ;	Graphic and multimedia designers
+				полиграфический_дизайнер
+					дизайнер_в_типографии
+				промышленный_дизайнер
+	isco_22 ;	Health professionals
+		isco_221 ;	Medical doctors
+			isco_2211 ;	Generalist medical practitioners
+				терапевт
+				педиатр
+			isco_2212 ;	Specialist medical practitioners
+		isco_222 ;	Nursing and midwifery professionals
+			isco_2221 ;	Nursing professionals
+			isco_2222 ;	Midwifery professionals
+		isco_223 ;	Traditional and complementary medicine professionals
+			isco_2230 ;	Traditional and complementary medicine professionals
+		isco_224 ;	Paramedical practitioners
+			isco_2240 ;	Paramedical practitioners
+		isco_225 ;	Veterinarians
+			isco_2250 ;	Veterinarians
+				ветеринар
+		isco_226 ;	Other health professionals
+			isco_2261 ;	Dentists
+				стоматолог
+				ортодонт
+			isco_2262 ;	Pharmacists
+				фармацевт
+			isco_2263 ;	Environmental and occupational health and hygiene professionals
+			isco_2264 ;	Physiotherapists
+			isco_2265 ;	Dieticians and nutritionists
+			isco_2266 ;	Audiologists and speech therapists
+			isco_2267 ;	Optometrists and ophthalmic opticians
+			isco_2269 ;	Health professionals not elsewhere classified
+	isco_23 ;	Teaching professionals
+		isco_231 ;	University and higher education teachers
+			isco_2310 ;	University and higher education teachers
+				преподаватель_университета
+					_преподаватель
+					_старший_преподаватель
+					_доцент
+					_профессор
+				преподаватель_высшей_школы
+		isco_232 ;	Vocational education teachers
+			isco_2320 ;	Vocational education teachers
+				преподаватель_УПК
+				преподаватель_профтехучилища
+		isco_233 ;	Secondary education teachers
+			isco_2330 ;	Secondary education teachers
+				учитель
+				преподаватель_дома_творчества
+		isco_234 ;	Primary school and early childhood teachers
+			isco_2341 ;	Primary school teachers
+			isco_2342 ;	Early childhood educators
+				воспитатель_детского_сада
+		isco_235 ;	Other teaching professionals
+			isco_2351 ;	Education methods specialists
+			isco_2352 ;	Special needs teachers
+			isco_2353 ;	Other language teachers
+			isco_2354 ;	Other music teachers
+			isco_2355 ;	Other arts teachers
+				преподаватель_художественной_школы
+				преподаватель_музыкальной_школы
+			isco_2356 ;	Information technology trainers
+			isco_2359 ;	Teaching professionals not elsewhere classified
+				репетитор
+	isco_24 ;	Business and administration professionals
+		isco_241 ;	Finance professionals
+			isco_2411 ;	Accountants
+				бухгалтер
+			isco_2412 ;	Financial and investment advisers
+				кредитный_консультант
+			isco_2413 ;	Financial analysts
+				финансовый_аналитик
+				экономист
+		isco_242 ;	Administration professionals
+			isco_2421 ;	Management and organization analysts
+				бизнес-аналитик
+			isco_2422 ;	Policy administration professionals
+			isco_2423 ;	Personnel and careers professionals
+			isco_2424 ;	Training and staff development professionals
+		isco_243 ;	Sales, marketing and public relations professionals
+			isco_2431 ;	Advertising and marketing professionals
+				рекламный_менеджер
+			isco_2432 ;	Public relations professionals
+				PR-менеджер
+			isco_2433 ;	Technical and medical sales professionals (excluding ICT)
+				менеджер_по_продажам_техоборудования
+			isco_2434 ;	Information and communications technology sales professionals
+	isco_25 ;	Information and communications technology professionals
+		isco_251 ;	Software and applications developers and analysts
+			isco_2511 ;	Systems analysts
+				системный_аналитик
+			isco_2512 ;	Software developers
+				программист
+					программист_PHP
+					программист_CPP
+					программист_JAVA
+					программист_DOTNET
+					программист_RUBY
+					программист_PYTHON
+					программист_1C
+					программист_LISP
+					программист_assembler
+					разработчик_мобильных_приложений
+			isco_2513 ;	Web and multimedia developers
+				веб-дизайнер
+				верстальщик_сайтов
+				SEO-оптимизатор
+			isco_2514 ;	Applications programmers
+			isco_2519 ;	Software and applications developers and analysts not elsewhere classified
+		isco_252 ;	Database and network professionals
+			isco_2521 ;	Database designers and administrators
+				разработчик_баз_данных
+				администратор_баз_данных
+			isco_2522 ;	Systems administrators
+				системный_администратор
+			isco_2523 ;	Computer network professionals
+				сетевой_администратор
+			isco_2529 ;	Database and network professionals not elsewhere classified
+				data_scientist
+	isco_26 ;	Legal, social and cultural professionals
+		isco_261 ;	Legal professionals
+			isco_2611 ;	Lawyers
+				адвокат
+			isco_2612 ;	Judges
+				судья
+				юрист
+			isco_2619 ;	Legal professionals not elsewhere classified
+		isco_262 ;	Librarians, archivists and curators
+			isco_2621 ;	Archivists and curators
+			isco_2622 ;	Librarians and related information professionals
+		isco_263 ;	Social and religious professionals
+			isco_2631 ;	Economists
+			isco_2632 ;	Sociologists, anthropologists and related professionals
+				антрополог
+				фольклорист
+				этнограф
+			isco_2633 ;	Philosophers, historians and political scientists
+				историк
+				политолог
+			isco_2634 ;	Psychologists
+				психолог
+					клинический_психолог
+			isco_2635 ;	Social work and counselling professionals
+			isco_2636 ;	Religious professionals
+				священник
+		isco_264 ;	Authors, journalists and linguists
+			isco_2641 ;	Authors and related writers
+				писатель
+				литературный_критик
+			isco_2642 ;	Journalists
+				журналист
+				редактор_газеты
+				редактор_журнала
+			isco_2643 ;	Translators, interpreters and other linguists
+				переводчик
+				лингвист
+		isco_265 ;	Creative and performing artists
+			isco_2651 ;	Visual artists
+				художник
+			isco_2652 ;	Musicians, singers and composers
+				певец
+				композитор
+				диджей
+				музыкант
+					гитарист
+						бас-гитарист
+					флейтист
+					барабанщик
+					клавишник
+					гармонист
+			isco_2653 ;	Dancers and choreographers
+				танцор
+				хореограф
+			isco_2654 ;	Film, stage and related directors and producers
+				видеопродюсер
+				видеорежиссер
+				музыкальный_продюсер
+				редактор_на_радио
+				телередактор
+			isco_2655 ;	Actors
+				актер
+					киноактер
+					актер_театра
+			isco_2656 ;	Announcers on radio, television and other media
+				радиоведущий
+				телеведущий
+			isco_2659 ;	Creative and performing artists not elsewhere classified
+isco_3 ;	Technicians and associate professionals
+	isco_31 ;	Science and engineering associate professionals
+		isco_311 ;	Physical and engineering science technicians
+			isco_3111 ;	Chemical and physical science technicians
+			isco_3112 ;	Civil engineering technicians
+			isco_3113 ;	Electrical engineering technicians
+			isco_3114 ;	Electronics engineering technicians
+			isco_3115 ;	Mechanical engineering technicians
+			isco_3116 ;	Chemical engineering technicians
+			isco_3117 ;	Mining and metallurgical technicians
+			isco_3118 ;	Draughtspersons
+				копировщик
+			isco_3119 ;	Physical and engineering science technicians not elsewhere classified
+		isco_312 ;	Mining, manufacturing and construction supervisors
+			isco_3121 ;	Mining supervisors
+			isco_3122 ;	Manufacturing supervisors
+			isco_3123 ;	Construction supervisors
+		isco_313 ;	Process control technicians
+			isco_3131 ;	Power production plant operators
+			isco_3132 ;	Incinerator and water treatment plant operators
+			isco_3133 ;	Chemical processing plant controllers
+			isco_3134 ;	Petroleum and natural gas refining plant operators
+			isco_3135 ;	Metal production process controllers
+			isco_3139 ;	Process control technicians not elsewhere classified
+		isco_314 ;	Life science technicians and related associate professionals
+			isco_3141 ;	Life science technicians (excluding medical)
+			isco_3142 ;	Agricultural technicians
+			isco_3143 ;	Forestry technicians
+		isco_315 ;	Ship and aircraft controllers and technicians
+			isco_3151 ;	Ships' engineers
+			isco_3152 ;	Ships' deck officers and pilots
+			isco_3153 ;	Aircraft pilots and related associate professionals
+			isco_3154 ;	Air traffic controllers
+			isco_3155 ;	Air traffic safety electronics technicians
+	isco_32 ;	Health associate professionals
+		isco_321 ;	Medical and pharmaceutical technicians
+			isco_3211 ;	Medical imaging and therapeutic equipment technicians
+			isco_3212 ;	Medical and pathology laboratory technicians
+			isco_3213 ;	Pharmaceutical technicians and assistants
+			isco_3214 ;	Medical and dental prosthetic technicians
+		isco_322 ;	Nursing and midwifery associate professionals
+			isco_3221 ;	Nursing associate professionals
+				медсестра
+			isco_3222 ;	Midwifery associate professionals
+		isco_323 ;	Traditional and complementary medicine associate professionals
+			isco_3230 ;	Traditional and complementary medicine associate professionals
+				судмедэксперт
+			isco_3239
+				хиропрактик
+				простетик
+		isco_324 ;	Veterinary technicians and assistants
+			isco_3240 ;	Veterinary technicians and assistants
+		isco_325 ;	Other health associate professionals
+			isco_3251 ;	Dental assistants and therapists
+			isco_3252 ;	Medical records and health information technicians
+			isco_3253 ;	Community health workers
+			isco_3254 ;	Dispensing opticians
+			isco_3255 ;	Physiotherapy technicians and assistants
+			isco_3256 ;	Medical assistants
+			isco_3257 ;	Environmental and occupational health inspectors and associates
+			isco_3258 ;	Ambulance workers
+			isco_3259 ;	Health associate professionals not elsewhere classified
+	isco_33 ;	Business and administration associate professionals
+		isco_331 ;	Financial and mathematical associate professionals
+			isco_3311 ;	Securities and finance dealers and brokers
+			isco_3312 ;	Credit and loans officers
+			isco_3313 ;	Accounting associate professionals
+			isco_3314 ;	Statistical, mathematical and related associate professionals
+				инженер_по_защите_информации
+			isco_3315 ;	Valuers and loss assessors
+		isco_332 ;	Sales and purchasing agents and brokers
+			isco_3321 ;	Insurance representatives
+			isco_3322 ;	Commercial sales representatives
+			isco_3323 ;	Buyers
+			isco_3324 ;	Trade brokers
+		isco_333 ;	Business services agents
+			isco_3331 ;	Clearing and forwarding agents
+			isco_3332 ;	Conference and event planners
+			isco_3333 ;	Employment agents and contractors
+			isco_3334 ;	Real estate agents and property managers
+			isco_3339 ;	Business services agents not elsewhere classified
+		isco_334 ;	Administrative and specialised secretaries
+			isco_3341 ;	Office supervisors
+			isco_3342 ;	Legal secretaries
+			isco_3343 ;	Administrative and executive secretaries
+			isco_3344 ;	Medical secretaries
+		isco_335 ;	Regulatory government associate professionals
+			isco_3351 ;	Customs and border inspectors
+				таможенный_инспектор
+			isco_3352 ;	Government tax and excise officials
+				налоговый_инспектор
+			isco_3353 ;	Government social benefits officials
+				инспектор_соцзащиты
+				трудовой_инспектор
+			isco_3354 ;	Government licensing officials
+				нотариус
+			isco_3355 ;	Police inspectors and detectives
+				частный_детектив
+			isco_3359 ;	Regulatory government associate professionals not elsewhere classified
+	isco_34 ;	Legal, social, cultural and related associate professionals
+		isco_341 ;	Legal, social and religious associate professionals
+			isco_3411 ;	Police inspectors and detectives
+				следователь
+				судэксперт
+			isco_3412 ;	Social work associate professionals
+			isco_3413 ;	Religious associate professionals
+				звонарь
+		isco_342 ;	Sports and fitness workers
+			isco_3421 ;	Athletes and sports players
+				футболист
+			isco_3422 ;	Sports coaches, instructors and officials
+				тренер
+			isco_3423 ;	Fitness and recreation instructors and program leaders
+		isco_343 ;	Artistic, cultural and culinary associate professionals
+			isco_3431 ;	Photographers
+				фотограф
+			isco_3432 ;	Interior designers and decorators
+				дизайнер_интерьера
+				художник-оформитель
+			isco_3433 ;	Gallery, museum and library technicians
+			isco_3434 ;	Chefs
+			isco_3435 ;	Other artistic and cultural associate professionals
+				видеооператор
+				звукорежиссер
+				татуировщик
+	isco_35 ;	Information and communications technicians
+		isco_351 ;	Information and communications technology operations and user support technicians
+			isco_3511 ;	Information and communications technology operations technicians
+			isco_3512 ;	Information and communications technology user support technicians
+				эникейщик
+				установщик_ПО
+			isco_3513 ;	Computer network and systems technicians
+				системный_администратор
+				сетевой_администратор
+			isco_3514 ;	Web technicians
+		isco_352 ;	Telecommunications and broadcasting technicians
+			isco_3521 ;	Broadcasting and audio-visual technicians
+			isco_3522 ;	Telecommunications engineering technicians
+isco_4 ;	Clerical support workers
+	isco_41 ;	General and keyboard clerks
+		isco_411 ;	General office clerks
+			isco_4110 ;	General office clerks
+		isco_412 ;	Secretaries (general)
+			isco_4120 ;	Secretaries (general)
+		isco_413 ;	Keyboard operators
+			isco_4131 ;	Typists and word processing operators
+			isco_4132 ;	Data entry clerks
+	isco_42 ;	Customer services clerks
+		isco_421 ;	Tellers, money collectors and related clerks
+			isco_4211 ;	Bank tellers and related clerks
+				банковский_клерк
+					банковский_кассир
+			isco_4212 ;	Bookmakers, croupiers and related gaming workers
+			isco_4213 ;	Pawnbrokers and money-lenders
+			isco_4214 ;	Debt-collectors and related workers
+		isco_422 ;	Client information workers
+			isco_4221 ;	Travel consultants and clerks
+			isco_4222 ;	Contact centre information clerks
+			isco_4223 ;	Telephone switchboard operators
+				телефонист
+			isco_4224 ;	Hotel receptionists
+			isco_4225 ;	Enquiry clerks
+			isco_4226 ;	Receptionists (general)
+			isco_4227 ;	Survey and market research interviewers
+			isco_4229 ;	Client information workers not elsewhere classified
+	isco_43 ;	Numerical and material recording clerks
+		isco_431 ;	Numerical clerks
+			isco_4311 ;	Accounting and bookkeeping clerks
+			isco_4312 ;	Statistical, finance and insurance clerks
+			isco_4313 ;	Payroll clerks
+		isco_432 ;	Material-recording and transport clerks
+			isco_4321 ;	Stock clerks
+			isco_4322 ;	Production clerks
+			isco_4323 ;	Transport clerks
+	isco_44 ;	Other clerical support workers
+		isco_441 ;	Other clerical support workers
+			isco_4411 ;	Library clerks
+				библиотекарь
+			isco_4412 ;	Mail carriers and sorting clerks
+				почтальон
+			isco_4413 ;	Coding, proof-reading and related clerks
+			isco_4414 ;	Scribes and related workers
+			isco_4415 ;	Filing and copying clerks
+			isco_4416 ;	Personnel clerks
+			isco_4419 ;	Clerical support workers not elsewhere classified
+isco_5 ;	Service and sales workers
+	isco_51 ;	Personal service workers
+		isco_511 ;	Travel attendants, conductors and guides
+			isco_5111 ;	Travel attendants and travel stewards
+			isco_5112 ;	Transport conductors
+			isco_5113 ;	Travel guides
+		isco_512 ;	Cooks
+			isco_5120 ;	Cooks
+		isco_513 ;	Waiters and bartenders
+			isco_5131 ;	Waiters
+				официант
+			isco_5132 ;	Bartenders
+				бармен
+		isco_514 ;	Hairdressers, beauticians and related workers
+			isco_5141 ;	Hairdressers
+				парикмахер
+			isco_5142 ;	Beauticians and related workers
+				косметолог
+				массажист
+		isco_515 ;	Building and housekeeping supervisors
+			isco_5151 ;	Cleaning and housekeeping supervisors in offices, hotels and other establishments
+			isco_5152 ;	Domestic housekeepers
+			isco_5153 ;	Building caretakers
+		isco_516 ;	Other personal services workers
+			isco_5161 ;	Astrologers, fortune-tellers and related workers
+			isco_5162 ;	Companions and valets
+			isco_5163 ;	Undertakers and embalmers
+			isco_5164 ;	Pet groomers and animal care workers
+			isco_5165 ;	Driving instructors
+			isco_5169 ;	Personal services workers not elsewhere classified
+	isco_52 ;	Sales workers
+		isco_521 ;	Street and market salespersons
+			isco_5211 ;	Stall and market salespersons
+			isco_5212 ;	Street food salespersons
+		isco_522 ;	Shop salespersons
+			isco_5221 ;	Shop keepers
+			isco_5222 ;	Shop supervisors
+			isco_5223 ;	Shop sales assistants
+				продавец
+		isco_523 ;	Cashiers and ticket clerks
+			isco_5230 ;	Cashiers and ticket clerks
+		isco_524 ;	Other sales workers
+			isco_5241 ;	Fashion and other models
+			isco_5242 ;	Sales demonstrators
+			isco_5243 ;	Door to door salespersons
+				млм-продавец
+			isco_5244 ;	Contact centre salespersons
+			isco_5245 ;	Service station attendants
+			isco_5246 ;	Food service counter attendants
+			isco_5249 ;	Sales workers not elsewhere classified
+	isco_53 ;	Personal care workers
+		isco_531 ;	Child care workers and teachers' aides
+			isco_5311 ;	Child care workers
+			isco_5312 ;	Teachers' aides
+		isco_532 ;	Personal care workers in health services
+			isco_5321 ;	Health care assistants
+			isco_5322 ;	Home-based personal care workers
+			isco_5329 ;	Personal care workers in health services not elsewhere classified
+	isco_54 ;	Protective services workers
+		isco_541 ;	Protective services workers
+			isco_5411 ;	Fire-fighters
+			isco_5412 ;	Police officers
+				полицейский
+				сотрудник_гибдд
+			isco_5413 ;	Prison guards
+			isco_5414 ;	Security guards
+				охранник
+			isco_5419 ;	Protective services workers not elsewhere classified
+				спасатель
+isco_6 ;	Skilled agricultural, forestry and fishery workers
+	isco_61 ;	Market-oriented skilled agricultural workers
+		isco_611 ;	Market gardeners and crop growers
+			isco_6111 ;	Field crop and vegetable growers
+			isco_6112 ;	Tree and shrub crop growers
+			isco_6113 ;	Gardeners, horticultural and nursery growers
+			isco_6114 ;	Mixed crop growers
+		isco_612 ;	Animal producers
+			isco_6121 ;	Livestock and dairy producers
+			isco_6122 ;	Poultry producers
+			isco_6123 ;	Apiarists and sericulturists
+			isco_6129 ;	Animal producers not elsewhere classified
+		isco_613 ;	Mixed crop and animal producers
+			isco_6130 ;	Mixed crop and animal producers
+	isco_62 ;	Market-oriented skilled forestry, fishery and hunting workers
+		isco_621 ;	Forestry and related workers
+			isco_6210 ;	Forestry and related workers
+		isco_622 ;	Fishery workers, hunters and trappers
+			isco_6221 ;	Aquaculture workers
+			isco_6222 ;	Inland and coastal waters fishery workers
+			isco_6223 ;	Deep-sea fishery workers
+			isco_6224 ;	Hunters and trappers
+	isco_63 ;	Subsistence farmers, fishers, hunters and gatherers
+		isco_631 ;	Subsistence crop farmers
+			isco_6310 ;	Subsistence crop farmers
+		isco_632 ;	Subsistence livestock farmers
+			isco_6320 ;	Subsistence livestock farmers
+		isco_633 ;	Subsistence mixed crop and livestock farmers
+			isco_6330 ;	Subsistence mixed crop and livestock farmers
+		isco_634 ;	Subsistence fishers, hunters, trappers and gatherers
+			isco_6340 ;	Subsistence fishers, hunters, trappers and gatherers
+isco_7 ;	Craft and related trades workers
+	isco_71 ;	Building and related trades workers, excluding electricians
+		isco_711 ;	Building frame and related trades workers
+			isco_7111 ;	House builders
+			isco_7112 ;	Bricklayers and related workers
+				каменщик
+			isco_7113 ;	Stonemasons, stone cutters, splitters and carvers
+			isco_7114 ;	Concrete placers, concrete finishers and related workers
+				цементщик
+			isco_7115 ;	Carpenters and joiners
+				плотник
+			isco_7119 ;	Building frame and related trades workers not elsewhere classified
+		isco_712 ;	Building finishers and related trades workers
+			isco_7121 ;	Roofers
+			isco_7122 ;	Floor layers and tile setters
+			isco_7123 ;	Plasterers
+			isco_7124 ;	Insulation workers
+			isco_7125 ;	Glaziers
+				установщик_стеклопакетов
+			isco_7126 ;	Plumbers and pipe fitters
+				сантехник
+			isco_7127 ;	Air conditioning and refrigeration mechanics
+				инженер_по_вентиляции
+				инженер_холодильных_установок
+		isco_713 ;	Painters, building structure cleaners and related trades workers
+			isco_7131 ;	Painters and related workers
+				маляр
+			isco_7132 ;	Spray painters and varnishers
+			isco_7133 ;	Building structure cleaners
+				промальпинист
+	isco_72 ;	Metal, machinery and related trades workers
+		isco_721 ;	Sheet and structural metal workers, moulders and welders, and related workers
+			isco_7211 ;	Metal moulders and coremakers
+			isco_7212 ;	Welders and flamecutters
+				сварщик
+			isco_7213 ;	Sheet-metal workers
+			isco_7214 ;	Structural-metal preparers and erectors
+			isco_7215 ;	Riggers and cable splicers
+		isco_722 ;	Blacksmiths, toolmakers and related trades workers
+			isco_7221 ;	Blacksmiths, hammersmiths and forging press workers
+				кузнец
+			isco_7222 ;	Toolmakers and related workers
+			isco_7223 ;	Metal working machine tool setters and operators
+			isco_7224 ;	Metal polishers, wheel grinders and tool sharpeners
+		isco_723 ;	Machinery mechanics and repairers
+			isco_7231 ;	Motor vehicle mechanics and repairers
+				автослесарь
+				ремонтник_промышленного_транспорта
+			isco_7232 ;	Aircraft engine mechanics and repairers
+			isco_7233 ;	Agricultural and industrial machinery mechanics and repairers
+				ремонтник_горного_оборудования
+			isco_7234 ;	Bicycle and related repairers
+	isco_73 ;	Handicraft and printing workers
+		isco_731 ;	Handicraft workers
+			isco_7311 ;	Precision-instrument makers and repairers
+			isco_7312 ;	Musical instrument makers and tuners
+			isco_7313 ;	Jewellery and precious-metal workers
+			isco_7314 ;	Potters and related workers
+			isco_7315 ;	Glass makers, cutters, grinders and finishers
+			isco_7316 ;	Sign writers, decorative painters, engravers and etchers
+			isco_7317 ;	Handicraft workers in wood, basketry and related materials
+			isco_7318 ;	Handicraft workers in textile, leather and related materials
+			isco_7319 ;	Handicraft workers not elsewhere classified
+		isco_732 ;	Printing trades workers
+			isco_7321 ;	Pre-press technicians
+			isco_7322 ;	Printers
+			isco_7323 ;	Print finishing and binding workers
+	isco_74 ;	Electrical and electronic trades workers
+		isco_741 ;	Electrical equipment installers and repairers
+			isco_7411 ;	Building and related electricians
+			isco_7412 ;	Electrical mechanics and fitters
+				электрослесарь
+				электромеханик
+			isco_7413 ;	Electrical line installers and repairers
+				электрик
+					промышленный_электрик
+		isco_742 ;	Electronics and telecommunications installers and repairers
+			isco_7421 ;	Electronics mechanics and servicers
+			isco_7422 ;	Information and communications technology installers and servicers
+	isco_75 ;	Food processing, wood working, garment and other craft and related trades workers
+		isco_751 ;	Food processing and related trades workers
+			isco_7511 ;	Butchers, fishmongers and related food preparers
+			isco_7512 ;	Bakers, pastry-cooks and confectionery makers
+			isco_7513 ;	Dairy-products makers
+			isco_7514 ;	Fruit, vegetable and related preservers
+			isco_7515 ;	Food and beverage tasters and graders
+				дегустатор_вин
+			isco_7516 ;	Tobacco preparers and tobacco products makers
+		isco_752 ;	Wood treaters, cabinet-makers and related trades workers
+			isco_7521 ;	Wood treaters
+			isco_7522 ;	Cabinet-makers and related workers
+			isco_7523 ;	Woodworking-machine tool setters and operators
+		isco_753 ;	Garment and related trades workers
+			isco_7531 ;	Tailors, dressmakers, furriers and hatters
+			isco_7532 ;	Garment and related pattern-makers and cutters
+			isco_7533 ;	Sewing, embroidery and related workers
+			isco_7534 ;	Upholsterers and related workers
+			isco_7535 ;	Pelt dressers, tanners and fellmongers
+			isco_7536 ;	Shoemakers and related workers
+		isco_754 ;	Other craft and related workers
+			isco_7541 ;	Underwater divers
+			isco_7542 ;	Shotfirers and blasters
+			isco_7543 ;	Product graders and testers (excluding foods and beverages)
+				лаборант-контролер_качества
+			isco_7544 ;	Fumigators and other pest and weed controllers
+			isco_7549 ;	Craft and related workers not elsewhere classified
+isco_8 ;	Plant and machine operators, and assemblers
+	isco_81 ;	Stationary plant and machine operators
+		isco_811 ;	Mining and mineral processing plant operators
+			isco_8111 ;	Miners and quarriers
+				проходчик
+				взрывник
+			isco_8112 ;	Mineral and stone processing plant operators
+			isco_8113 ;	Well drillers and borers and related workers
+				бурильщик
+			isco_8114 ;	Cement, stone and other mineral products machine operators
+		isco_812 ;	Metal processing and finishing plant operators
+			isco_8121 ;	Metal processing plant operators
+				плавильщик
+			isco_8122 ;	Metal finishing, plating and coating machine operators
+		isco_813 ;	Chemical and photographic products plant and machine operators
+			isco_8131 ;	Chemical products plant and machine operators
+			isco_8132 ;	Photographic products machine operators
+		isco_814 ;	Rubber, plastic and paper products machine operators
+			isco_8141 ;	Rubber products machine operators
+			isco_8142 ;	Plastic products machine operators
+			isco_8143 ;	Paper products machine operators
+		isco_815 ;	Textile, fur and leather products machine operators
+			isco_8151 ;	Fibre preparing, spinning and winding machine operators
+			isco_8152 ;	Weaving and knitting machine operators
+			isco_8153 ;	Sewing machine operators
+			isco_8154 ;	Bleaching, dyeing and fabric cleaning machine operators
+			isco_8155 ;	Fur and leather preparing machine operators
+			isco_8156 ;	Shoemaking and related machine operators
+			isco_8157 ;	Laundry machine operators
+			isco_8159 ;	Textile, fur and leather products machine operators not elsewhere classified
+		isco_816 ;	Food and related products machine operators
+			isco_8160 ;	Food and related products machine operators
+		isco_817 ;	Wood processing and papermaking plant operators
+			isco_8171 ;	Pulp and papermaking plant operators
+			isco_8172 ;	Wood processing plant operators
+		isco_818 ;	Other stationary plant and machine operators
+			isco_8181 ;	Glass and ceramics plant operators
+			isco_8182 ;	Steam engine and boiler operators
+			isco_8183 ;	Packing, bottling and labelling machine operators
+			isco_8189 ;	Stationary plant and machine operators not elsewhere classified
+	isco_82 ;	Assemblers
+		isco_821 ;	Assemblers
+			isco_8211 ;	Mechanical machinery assemblers
+			isco_8212 ;	Electrical and electronic equipment assemblers
+			isco_8219 ;	Assemblers not elsewhere classified
+	isco_83 ;	Drivers and mobile plant operators
+		isco_831 ;	Locomotive engine drivers and related workers
+			isco_8311 ;	Locomotive engine drivers
+			isco_8312 ;	Railway brake, signal and switch operators
+				стрелочник
+		isco_832 ;	Car, van and motorcycle drivers
+			isco_8321 ;	Motorcycle drivers
+			isco_8322 ;	Car, taxi and van drivers
+		isco_833 ;	Heavy truck and bus drivers
+			isco_8331 ;	Bus and tram drivers
+			isco_8332 ;	Heavy truck and lorry drivers
+		isco_834 ;	Mobile plant operators
+			isco_8341 ;	Mobile farm and forestry plant operators
+			isco_8342 ;	Earthmoving and related plant operators
+				водитель_дорожной_техники
+				машинист_экскаватора
+			isco_8343 ;	Crane, hoist and related plant operators
+			isco_8344 ;	Lifting truck operators
+		isco_835 ;	Ships' deck crews and related workers
+			isco_8350 ;	Ships' deck crews and related workers
+isco_9 ;	Elementary occupations
+	isco_91 ;	Cleaners and helpers
+		isco_911 ;	Domestic, hotel and office cleaners and helpers
+			isco_9111 ;	Domestic cleaners and helpers
+			isco_9112 ;	Cleaners and helpers in offices, hotels and other establishments
+		isco_912 ;	Vehicle, window, laundry and other hand cleaning workers
+			isco_9121 ;	Hand launderers and pressers
+			isco_9122 ;	Vehicle cleaners
+			isco_9123 ;	Window cleaners
+			isco_9129 ;	Other cleaning workers
+	isco_92 ;	Agricultural, forestry and fishery labourers
+		isco_921 ;	Agricultural, forestry and fishery labourers
+			isco_9211 ;	Crop farm labourers
+			isco_9212 ;	Livestock farm labourers
+			isco_9213 ;	Mixed crop and livestock farm labourers
+			isco_9214 ;	Garden and horticultural labourers
+			isco_9215 ;	Forestry labourers
+			isco_9216 ;	Fishery and aquaculture labourers
+	isco_93 ;	Labourers in mining, construction, manufacturing and transport
+		isco_931 ;	Mining and construction labourers
+			isco_9311 ;	Mining and quarrying labourers
+			isco_9312 ;	Civil engineering labourers
+			isco_9313 ;	Building construction labourers
+		isco_932 ;	Manufacturing labourers
+			isco_9321 ;	Hand packers
+			isco_9329 ;	Manufacturing labourers not elsewhere classified
+		isco_933 ;	Transport and storage labourers
+			isco_9331 ;	Hand and pedal vehicle drivers
+			isco_9332 ;	Drivers of animal-drawn vehicles and machinery
+				кучер
+			isco_9333 ;	Freight handlers
+			isco_9334 ;	Shelf fillers
+	isco_94 ;	Food preparation assistants
+		isco_941 ;	Food preparation assistants
+			isco_9411 ;	Fast food preparers
+			isco_9412 ;	Kitchen helpers
+	isco_95 ;	Street and related sales and service workers
+		isco_951 ;	Street and related service workers
+			isco_9510 ;	Street and related service workers
+		isco_952 ;	Street vendors (excluding food)
+			isco_9520 ;	Street vendors (excluding food)
+	isco_96 ;	Refuse workers and other elementary workers
+		isco_961 ;	Refuse workers
+			isco_9611 ;	Garbage and recycling collectors
+			isco_9612 ;	Refuse sorters
+			isco_9613 ;	Sweepers and related labourers
+		isco_962 ;	Other elementary workers
+			isco_9621 ;	Messengers, package deliverers and luggage porters
+				курьер
+				разносчик_газет
+			isco_9622 ;	Odd job persons
+			isco_9623 ;	Meter readers and vending-machine collectors
+			isco_9624 ;	Water and firewood collectors
+			isco_9629 ;	Elementary workers not elsewhere classified
+isco_0 ;	Armed forces occupations
+	isco_01 ;	Commissioned armed forces officers
+		isco_011 ;	Commissioned armed forces officers
+			isco_0110 ;	Commissioned armed forces officers
+	isco_02 ;	Non-commissioned armed forces officers
+		isco_021 ;	Non-commissioned armed forces officers
+			isco_0210 ;	Non-commissioned armed forces officers
+	isco_03 ;	Armed forces occupations, other ranks
+		isco_031 ;	Armed forces occupations, other ranks
+			isco_0310 ;	Armed forces occupations, other ranks
+ext_1
+	ext_11 ;
+		грудной_младенец
+	ext_12 ; ясли
+		ясельный_младенец
+	ext_13 ; детский сад
+		детсадовец
+ext_2 ; среднее образование
+	ext_21 ; школа
+		школьник
+	ext_22 ; среднее специальное образование
+		учащийся_профтехучилища
+		учащийся_колледжа
+		студент_folkehøgskole
+		студент_videregåendeskole
+ext_3 ; высшее образование
+	ext_31 ; университет
+ 		студент_университета
+ext_4
+	предприниматель
+	частный_предприниматель
+	_глава_отдела

@@ -115,6 +115,7 @@ university keys-order:alt-id,lat-id,deabbr,abbr,rus-abbr,name,nick,hq,start,url,
 		scotland
 			UEdinburgh name:"University of Edinburgh" hq:Edinburgh start:1582
 			UEMS name:"University of Edinburgh Medical School" hq:Edinburgh	part-of:UEdinburgh
+			UStAnd name:"University of St Andrews" hq:StAndrews start:1413
 		spain
 			TUMadrid name:"Technical University of Madrid" hq:Madrid start:1971
 			UAlicante deabbr:"University of Alicante" hq:Alicante start:1979	
