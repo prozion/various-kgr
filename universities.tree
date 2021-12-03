@@ -11,6 +11,8 @@ university keys-order:alt-id,lat-id,deabbr,abbr,rus-abbr,name,nick,hq,start,url,
 			UKeio name:"Keio University" hq:Tokyo
 			UKyoto name:"Kyoto University" nick:Kyodai hq:Kyoto
 			TWMU deabbr:"Tokyo Women's Medical University" hq:Tokyo start:1900
+		saudi_arabia
+			KAUST name:"King Abdullah University of Science and Technology" hq:Thuwal start:2009
 		singapore
 			NUSingapore deabbr:"National University of Singapore" hq:Singapore start:1905,1980
 		south_korea
@@ -31,6 +33,7 @@ university keys-order:alt-id,lat-id,deabbr,abbr,rus-abbr,name,nick,hq,start,url,
 		england
 			Imperial_College_London hq:London start:1907 url:imperial.ac.uk
 			QCollege name:"The Queen's College" hq:Oxford start:1341
+			UBirmingham name:"University of Birmingham" hq:Birmingham start:1825
 			UBristol name:"University of Bristol" hq:Bristol start:1595,1876,1909
 			UCambridge hq:Cambridge start:~1209
 			UCLondon name:"University College London" hq:London start:1826 syn:UCL
@@ -92,8 +95,10 @@ university keys-order:alt-id,lat-id,deabbr,abbr,rus-abbr,name,nick,hq,start,url,
 			ГИИ deabbr:"Государственный институт искусствознания" hq:Москва start:1944
 			ВШЭ alt-id:HSE name:"Высшая Школа Экономики" hq:Moscow campus:Moscow,Saint-Petersburg,Nizhny_Novgorod,Perm start:1992 url:hse.ru 
 			ИГУ alt-id:ISU name:"Иркутский государственный университет" hq:Иркутск start:1918
+			ИГМА name:"Ижевская государственная медицинская академия" start:1933
 			МАИ alt-id:MAI name:"Московский Авиационный Институт" hq:Moscow start:1930 url:mai.ru
 			МГБИ alt-id:Московский_Библиотечный_Институт renamed-to:МГИК:2014
+			МГОУ before:МОПИ_им_Крупской hq:Moscow start:1825,1931
 			МГТУ_Баумана nick:Бауманка name:"Московский государственный технический университет им.Н.Э.Бaумана" hq:Moscow start:1830
 			МГУ alt-id:MSU name:"Московский государственный университет" hq:Moscow start:1755
 			МИФИ alt-id:MEPhI name:"Московский инженерно-физический институт" hq:Moscow start:1942
@@ -105,6 +110,9 @@ university keys-order:alt-id,lat-id,deabbr,abbr,rus-abbr,name,nick,hq,start,url,
 			РГУПС alt-id:RSTU name:"Rostov State Transport University" hq:Ростов-на-Дону
 			РЭУ alt-id:REA name:"Российский экономический университет имени Г.В.Плеханова" nick:Плехановка,Плешка hq:Moscow start:1903
 			Cамарский_Университет alt-id:USamara name:"Самарский национальный исследовательский университет имени академика С.П.Королева" hq:Samara
+			СГМУ name:"Саратовский государственный медицинский университет" hq:Samara start:1909,1930
+			Сеченовский_Университет hq:Москва start:1755
+			СЗГМУ_им_Мечникова hq:Saint-Petersburg
 			CПбГУ alt-id:SPBU name:"Санкт-Петербургский Государственный Университет" hq:Saint-Petersburg start:1724,1819 url:spbu.ru
 			СФУ deabbr:"Сибирский Федеральный Университет" hq:Krasnoyarsk start:2006
 			ЮУГУ alt-id:SUSU name:"South Ural State University" hq:Chelyabinsk id-ru:ЮУГУ,ЧГТУ
@@ -144,6 +152,7 @@ university keys-order:alt-id,lat-id,deabbr,abbr,rus-abbr,name,nick,hq,start,url,
 				Caltech alt-id:CIT name:"California Institute of Technology" hq:Pasadena start:1891				
 				Carnegie_Mellon_Silicon_Valley hq:Mounatain_View start:2002 part-of:UCarnegieMellon
 				CIT alt-id:Caltech name:"California Institute of Technology" hq:Pasadena start:1891
+				SF_State name:"San Francisco State University" hq:San_Francisco start:1899
 				UCalifornia name:"University of California" hq:Oakland start:1868
 				UC_Berkeley name:"University of California, Berkeley" hq:Berkeley part-of:UCalifornia
 				UCSC alt-id:UC_Santa_Cruz deabbr:"University of California Santa Cruz" hq:Santa_Cruz start:1965 part-of:UCalifornia
@@ -251,6 +260,7 @@ university keys-order:alt-id,lat-id,deabbr,abbr,rus-abbr,name,nick,hq,start,url,
 			WY ; Wyoming
 	oceania
 		australia
+			Deakin_University hq:Melbourne start:1974
 			La_Trobe_University hq:Melbourne start:1967
 			UMelbourne name:"University of Melbourne" hq:Melbourne start:1853
 			UMonash name:"Monash University" hq:Melbourne start:1958

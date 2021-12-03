@@ -9,6 +9,7 @@ publishers
 		germany
 			Holtzbrinck_Publishing_Group hq:Stuttgart merged-to:Springer_Nature:2015
 			Springer_Nature hq:Berlin,Heidelberg start:2015 merged-from:Holtzbrinck_Publishing_Group,Springer_Science
+			Springer start:1842 hq:Berlin,Heidelberg part-of:Springer_Nature
 		netherlands
 			Elsevier name:"Elsevier Ltd." hq:Amsterdam start:1880
 			IOS_Press hq:Amsterdam start:1987 member-of:STM

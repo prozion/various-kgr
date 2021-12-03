@@ -6,7 +6,7 @@ academic_search_engines
 citation_databases
 	CiteSeer url:citeseerx.ist.psu.edu owner:UPenn start:2007
 	Index_Copernicus start:1999 owner:Index_Copernicus_International url:indexcopernicus.com
-	Pubmed ref:systems_biology/databases
+	PubMed ref:biomed_wordls/databases/databases.tree
 	Scopus owner:Elsevier url:scopus.com start:2004
 	WOS alt-id:Web_of_Science owner:Clarivate_Analytics url:webofknowledge.com start:2016
 	РИНЦ deabbr:"Российский индекс научного Цитирования" developer:ELibrary url:elibrary.ru
