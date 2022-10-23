@@ -1,0 +1,14 @@
+human_species
+	Homo_rudolfensis start:2300K end:1500K
+		Homo_habilis
+			Homo_ergaster
+				Homo_erectus
+					Homo_heidelbergensis
+						Homo_neanderthalensis start:150K end:40K
+						Denisova_hominin alt:Homo_altaensis start:130K end:73K
+						Homo_floresiensis around-high:100K around-low:60K loc:Indonesia
+						Homo_longi around:146K loc:China
+						Homo_naledi around-high:365K around-low:236K loc:Africa
+						Homo_sapiens
+							Homo_sapiens_idaltu around-high:160K around-low:154K
+							Homo_sapiens_sapiens

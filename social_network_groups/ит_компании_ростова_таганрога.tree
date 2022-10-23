@@ -1,0 +1,214 @@
+разработка_ПО
+	B-Hit place:Таганрог addr:Энгельса-71
+	Dokit_Studio place:Таганрог addr:Поляковское-16 url:dokit.ru:<f>
+	анализ_данных alt-id:big_data
+		Statzilla place:Ростов addr:Горького-151 vk:vk.com/statzilla u:444
+	интеграция_программного_обеспечения
+		Бастион_Интегратор place:Таганрог addr:Москатова-31-2 url:bastion-integrator.com tech:Project_Server,Project_Online,SharePoint,Office_365,ASP.NET
+		Elonsoft place:Ростов vk:vk.com/elonsoft addr:Театральный-85 u:209
+		Oggetto place:Таганрог addr:Розы_Люксембург-49 vk:vk.com/oggettoweb url:ogetto.ru u:1119 tech:Magento,Hybris
+	консалтинг
+		ScrumLogic place:Ростов hq:Washington url:scrumlogic.com
+		Umbrella_IT ref:<t>
+		Xrom_Consulting_Group place:Таганрог url:xromconsulting.com vk:vk.com/xromconsulting tech:Go,ASP.NET,RoR,Laravel,Node.js,Angular,Elixir,Magento,Unity,C#,C++,Java,Python,R,UML,BPMN,IDEF0,DFD,IDEF3 office:Санкт-Петербург ppl:Стас_Хромых
+	обеспечение_информационной_безопасности keywords:защита_данных,защита_информации
+		НИИ_Спецвузавтоматика place:Ростов addr:Города_Волос-6 vk:vk.com/niisva u:46
+		DDos_Guard place:Ростов vk:vk.com/ddosguardnet addr:Буденновский-62?2 u:577
+		Searchinform place:Ростов vk:vk.com/securityinform u:879
+	обеспеспечение_качества
+		WebSailors ref:<t>
+	разработка_дополненной_реальности alt-id:разработка_AR
+		Bear_SAS alt-id:Bear2b,Amudo place:Таганрог addr:Смирновский-39 url:bear2b.com vk:vk.com/public167402391 u:70 tech:PHP,Android area:Augmented_Reality qa:manual
+		Lodoss ref:<t>
+	разработка_игр
+		Electronic_Arts place:Таганрог hq:Redwood_City addr:Петровская-103а url:ea.com tech:С++
+		Craft_Games place:Ростов addr:Большая_Садовая-150 url:craftgames.ru
+		GameNuts place:Ростов url:gamenuts.ru contact-vk:vk.com/pakhomych94
+		Game_Insight hq:Vilnius place:Таганрог addr:Петровская-51,Петровская-26 vk:vk.com/gameinsight url:game-insight.com u:229304 tech:Cocos2d,C++ trigger:`(** _it_words _event _ra)` ; trigger:"Таганрог"
+		Graven_Visual_Novels place:Ростов vk:vk.com/graven_vn u:1184
+		Heapp_Games url:heapp.games
+		Join_Game place:Таганрог addr:Петровская-26 url:join-game.com:<na> fb:facebook.com/joingametgn
+		; Nikita_online place:Москва old-addr:Ростовский url:nikitaonline.ru rss:nikitaonline.ru/rss/?lang=ru
+	разработка_ПО_для_корпорации
+		Сбербанк_Технологии place:Ростов vk:vk.com/sberbank.technology addr:Космонавтов-27в u:2751
+	разработка_ПО_на_заказ keywords:lev1,дум1
+		RnD_Soft alt-id:Рнд_Софт place:Ростов vk:vk.com/rndsoft addr:Газетный-121/262a u:194
+		DevHouse place:Таганрог addr:Петровская-15 url:devhouse.pro vk:vk.com/oslodevhouse u:145 tech:Node.js,.NET,Django,Angular,React,Ionic,React_Native office:Ставрополь,Oslo
+		Digital_Skynet place:Таганрог addr:Гарибальди-24 url:digitalskynet.ru vk:vk.com/digitalskynet u:645 tech:.NET,Magento,Angular,React,Redux,Vue.js,Knockout.js
+		Distillery old-name:RusWizards place:Таганрог addr:Некрасовский-75,Мариупольское-27-2-3 url:distillery.com vk:vk.com/distillerytech u:1142 tech:RoR,Django,Angular,React,IOS,Android,Amazon,Azure
+		Donteco place:Ростов vk:vk.com/club128531647 url:donteco.com addr:Социалистическая-74 u:30
+		Lodoss place:Таганрог addr:Итальянский-12 url:lodossteam.ru vk:vk.com/lodossteam u:1474
+		Maxilect place:Таганрог addr:<?> url:maxilect.ru tech:Java,Kotlin start:2015 office:Санкт-Петербург
+		Reksoft place:Ростов addr:Обороны-42б hq:Москва vk:vk.com/reksoft_live u:566 trigger:`(** _it_words _event _ra)` ; trigger:_ra
+		разработка_ГИС_на_заказ
+			Интернет_Фрегат ref:<t>
+			Softech place:Таганрог addr:Инструментальная-29/2 fb:facebook.com/ООО-Программные-Технологии-175335932536367 url:softech.ru vk:vk.com/softech_taganrog u:4 tech:ArcGIS,C++,C#,Java,HTML5
+		разработка_математически_нагруженного_ПО
+			Приматлаб place:Таганрог addr:Глушко-19 url:primatlab.com	
+		разработка_онлайн_сервисов_на_заказ keywords:saas,lev2,дум2
+			Anthill-IT place:Таганрог vk:vk.com/akosotuhin url:anthill-it.com addr:ОптимаЛэнд friends:260
+			Arcadia alt-id:Аркадия place:Таганрог addr:Тургеневский-2а url:arcadia.spb.ru vk:vk.com/softwarecountry u:889 qa:manual agile:Agile
+			Dunice place:Таганрог addr:Гоголевский-6 url:dunice.net vk:vk.com/dunice u:1054 tech:Angular,React,Compass,HTML5,Redis,Node.js,AWS,RoR,Django
+			EmberMVP place:Таганрог url:embermvp.com
+			Exceed_Team place:Таганрог addr:Нижняя_Линия-14,Тургеневский-11 url:exceed-team.com vk:vk.com/exceed.team u:732 tech:Node.js,RoR,Python,Laravel,React,Angular,Vue.js,JQuery,Ember.js,MongoDB,Redis,MsSQL,MySQL,PostreSQL,React_Native,Ionic,Cordova,PhoneGap ppl:Антон_Шишеня,Евгений_Громов hr-vk:vk.com/kotelnikova1997
+			Failsafe_Codelines place:Таганрог url:upwork.com/o/companies/~017517257ae062a03b tech:ASP.NET_MVC,.NET_Framework,.NET_Core,Web_API,Angular2,CSS,HTML5		
+			Func place:Таганрог addr:Москатова-31-2 url:func.ru office:Санкт-Петербург
+			Hotger place:Ростов addr:Тургеневская-24 vk:vk.com/hotger_rnd u:80
+			Incoding_Software place:Таганрог addr:Греческая-19 url:incoding.biz tech:.NET start:2006
+			Inostudio place:Таганрог addr:Октябрьская-39 url:inostudio.com vk:vk.com/inostudio u:1212
+			Intspirit place:Таганрог addr:Поляковское-16 url:intspirit.com vk:vk.com/intspirit tech:.NET,PHP,RoR,Django,Node.js,MsSQL,MongoDB,Redis,Azure,EC2,GAE
+			JDILab place:Таганрог addr:Некрасовский-51 url:jdi-lab.com vk:vk.com/jdi_lab u:134 tech:RoR,Kohana,Laravel,Zend,Angular,React,NoSQL
+			Leviossa place:Таганрог vk:vk.com/leviossa_team addr:Площадь_Восстания-1 u:75
+			MVPout place:Таганрог vk:vk.com/mvpout u:43
+			NameOne place:Таганрог url:nameone.io vk:vk.com/nameone_llc tech:.NET,Python,Angular,React,ML office:Oslo
+			Newizze place:Таганрог addr:Дзержинского-119а url:newizze.com vk:vk.com/newizze u:496 tech:HTML5,Node.js,Angular,React,Zend
+			NodaSoft place:Таганрог addr:Чехова-250 vk:vk.com/nodasoft url:nodasoft.com u:210 office:Москва,Санкт-Петербург,Астана
+			Oduo_Team place:Таганрог url:o-duo.ru
+			Outsourcery_Lab place:Ростов url:outsourcery.tech
+			Roonyx place:Ростов addr:Города_Волос-136/135 vk:vk.com/roonyx u:193
+			Storytelling_Software place:Таганрог addr:Греческая-104а url:storytelling-software.com vk:vk.com/storytellingsoftware u:219 service:websites,mobapps,QA,enterprise_solutions agile:Scrum,XP,Lean,Kanban
+			Suntegy place:Таганрог addr:Смирновский-121к url:suntegy.com vk:vk.com/suntegy u:186 planned-office:Oslo start:2017
+			Umbrella_IT place:Таганрог addr:Петровская-78 url:umbrellait.com vk:vk.com/umbrellaitcom u:3001
+			Usetech place:Ростов hq:Москва vk:vk.com/usetech_integration addr:Ворошиловский-44 u:1246
+			WebSailors place:Таганрог addr:Петровская-51 old-addr:Смирновский-39 url:websailors.pro vk:vk.com/websailors u:151 tech:JavaScript
+			WIS_Software place:Ростов addr:18_Линия-8 vk:vk.com/wissoftware u:436
+			Viacode place:Ростов vk:vk.com/viacode u:106
+			Zuzex place:Ростов vk:vk.com/zuzex_rostov url:zuzex.com addr:Обсерваторная-82 u:98
+			разработка_десктопных_приложений
+				разработка_windows_приложений
+					ВебИнформСервис ref:<t>
+			разработка_мобильных_приложений_на_заказ
+				Инновационные_технологии place:Таганрог addr:Кузнечная-11/2 tech:Android
+				Медиа_Масс.Штаб place:Таганрог addr:Розы_Люксембург-240-3 url:mass-shtab.ru:<f> vk:vk.com/mass.shtab start:2015 person:Юрий_Тимошенков
+				IT_Premium place:Таганрог vk:vk.com/it_premium_team addr:ОптимаЛэнд u:328
+				LetMeCode place:Таганрог addr:Социалистическая-7-1а url:letmecode.org vk:vk.com/letmecodeteam u:180 tech:Swift,Android 
+				Mentalstack place:Таганрог addr:Петровская-51 url:mentalstack.com fb:facebook.com/mentalstack vk:vk.com/mentalstack tech:Node.js,.NET,Angular,React,Swift,Java,Kotlin,Ionic
+				ProgForce place:Ростов twi:twitter.com/ProgForce url:progforce.com rss:progforce.com/?q=rss.xml vk:vk.com/progforce u:52
+				Sebbia place:Ростов url:sebbia.com fb:facebook.com/sebbia vk:vk.com/sebbia u:1236
+			разработка_ПО_для_компьютерных_сетей
+				DonRiver place:Таганрог addr:Петровская-89б url:donriver.com vk:vk.com/donriver tech:Java,Oracle office:Ростов-на-Дону,London,Toronto,Austin,Noida,Melbourne
+			разработка_решений_с_искусственным_интеллектом alt-id:AI
+				Feedvisor url:feedvisor.com hq:New_York
+				Opex_Analytics place:Таганрог url:opexanalytics.com hq:Evanston
+			создание_сайтов_на_заказ alt-id:вебдизайн,изготовление_сайтов,разработка_сайтов,вебсайты keywords:cfqns,cjplfybt_cfqnjd,lev3,дум3
+				Анатолий_Хватиков alt-id:XB_Studio place:Таганрог vk:vk.com/xbstudio u:76
+				БквСофт place:Таганрог addr:Фрунзе-152 url:bkv-soft.com vk:vk.com/bkvsoftcom u:156 tech:1C-Битрикс
+				ВебИнформСервис place:Таганрог vk:vk.com/wiserv url:wiserv.ru addr:Бакинская-49 u:166
+				Вебпрактик place:Ростов vk:vk.com/agencywebpractik url:webpractik.ru u:211
+				Иммельман place:Ростов vk:vk.com/immelman_ru u:74
+				Инициум place:Таганрог addr:Поляковское-16б url:initium.ru tech:Laravel,Sympfony,Yii,.NET,Android_SDK,1C-Bitrix hq:Москва
+				Крайт place:Таганрог addr:Глушко-19 url:krayt.ru vk:vk.com/krayt_studio tech:1C-Битрикс office:Москва,Ростов-на-Дону,Санкт-Петербург
+				Мастер-вебсайт place:Таганрог addr:Черняховского-9в url:master-website.ru
+				Михаил_Куличенко place:Таганрог addr:Дзержинского-189 url:mikul.ru
+				Планета_сайтов place:Таганрог addr:Трудовых_Резервов-10 url:planetasajtov.ru
+				Скайгор_Таганрог place:Таганрог addr:Чехова-98а url:litagro.ru
+				Сокол place:Таганрог addr:Петровская-111 url:webstudio-sokol.ru vk:vk.com/rabotaemdalshe office:Новочеркасск
+				Студия_Олега_Чулакова place:Ростов vk:vk.com/olegchulakovstudio addr:Кировский-122 u:4866
+				Студия_Прикладного_Дизайна alt-id:SPD place:Таганрог addr:Тургеневский-17 url:spd-inter.net
+				Талантлев place:Таганрог vk:vk.com/talantlev_club u:18 tech:Ucoz
+				Центр_Интернет place:Ростов addr:Красноармейская-186 vk:vk.com/c_inet u:1533
+				Югсайт place:Таганрог addr:Поляковское-16 url:yugsite.com tech:Joomla,WordPress,Opencart,1C-Битрикс,CodeIgniter,FuelPHP,Yii,Symfony
+				Ad5 place:Таганрог addr:Комсомольский-12 url:ad5.ru
+				AlexStudio place:Таганрог addr:Площадь_Мира-7 url:alexstudio.xyz:<f>
+				Arisfera place:Таганрог addr:Контрольный-6 url:arisfera.ru
+				BlackBox place:Таганрог addr:Петровская-51 tech:PHP,C#,Drupal,Magento,Laravel ppl:Стас_Хромых
+				Black_IT place:Ростов url:black-it.ru 
+				Brainmaze place:Таганрог addr:Москатова-31-2 url:brainmaze.net
+				Bricksite place:Таганрог addr:Розы_Люксембург-88а url:bricksite.ru vk:vk.com/bricksite
+				BuQ place:Таганрог addr:Социалистическая-2 url:wsbuq.ru
+				Ccube place:Таганрог addr:Петровская-44 url:ccube.ru
+				DPartners place:Таганрог vk:vk.com/dpartners addr:Греческая-98 u:214
+				Endreik place:Таганрог vk:vk.com/se_develop url:endreik.ru u:436
+				Firecode place:Ростов addr:Обороны-42б url:firecode.ru fb:facebook.com/firecode.ru vk:vk.com/firecode_ru u:2238
+				Fusion place:Таганрог addr:Петровская-51 url:fusion-team.com vk:vk.com/fusion_llc u:176 tech:Node.js,Django,Angular,React,data_science,machine_learning
+				German_Web place:Таганрог addr:Чехова-219 url:german-web.org vk:vk.com/germandevweb tech:UMI.CMS,WordPress,PrestaShop,Joomla client:Forres qa:manual
+				Global place:Ростов addr:Металлургическая-102/2 url:global-rostov.ru 
+				Hadrout place:Таганрог addr:Александровская-29 url:hadrout.ru tech:PHP,ASP.NET,SEO office:Ferndale
+				Imedia_Promotion place:Таганрог addr:Большая_Бульварная-12 url:imedia161.ru tech:WordPress,Bitrix,Opencart,Joomla
+				Inter-Web place:Таганрог addr:3_Линия-4 url:iw-studio.ru vk:vk.com/iwstudioru u:152 tech:1C-Битрикс
+				IT-Delta place:Ростов vk:vk.com/it_delta_ru u:1244
+				IT_Factory place:Ростов vk:vk.com/itfactory1 u:169
+				I-Like place:Таганрог addr:Цеховый-5а url:i-like10.ru tech:1C-Битрикс
+				Jaah place:Таганрог addr:Итальянский-39 url:jaah.ru
+				Life-promo place:Таганрог addr:Ломакина-110 url:life-promo.biz:<f> vk:vk.com/ia_lifepromo u:175 start:2011
+				Macros_Group place:Ростов vk:vk.com/macros.group u:952
+				Microfox place:Таганрог addr:КЛибкнехта-47 url:microfox.ru
+				On5Lab place:Таганрог addr:Поляковское-16 url:onfivelab.com tech:RoR,Angular,React,HTML5,AWS
+				Orochi-Lab place:Таганрог addr:Розы_Люксембург-240 url:orochi-lab.com tech:WordPress
+				Rivalov place:Таганрог addr:Дзержинского-91а url:rivalov.com
+				Rubium place:Таганрог addr:Гоголевский-27 phone:+78634690718 url:rubium.ru:<f> vk:vk.com/rubium u:18 tech:1C-Bitrix,Opencart,OctoberCMS start:2009
+				SamDesign place:Таганрог addr:Котлостроительная-37-15 url:samdesign.ru
+				SmartDesign place:Таганрог addr:Украинский-21 url:smart-design.pro vk:vk.com/smartdesignpro_taganrog u:34 tech:1С-Bitrix
+				Snow_Comers place:Таганрог addr:Москатова-31-2 phone:+79515023400
+				Socio_Path_Division place:Таганрог vk:vk.com/sozdaniesaitovtaganrog url:spd-inter.net u:123 tech:Joomla
+				StepanovMax place:Таганрог vk:vk.com/thestepanovmax u:330 last:2016
+				TutMee place:Таганрог addr:Петровская-51 url:tutmee.ru vk:vk.com/tutmee u:718 tech:HTML5,React,Angular,Wordpress,1C-Битрикс,Magento,Symfony
+				Vision_Web place:Таганрог addr:Котлостроительная-37-19 url:vision-web.ru
+				WebAnt place:Ростов addr:Кировский-35/113 old-addr:Семашко-74 vk:vk.com/webant_rnd u:42
+				WebIt_Expert place:Таганрог addr:3_Линия-4 url:webit-expert.com tech:Аспро,1C-Битрикс
+				WebNets place:Таганрог addr:1_Новый-26 url:webnets.ru vk:vk.com/webnets u:14
+				Webrocket place:Таганрог vk:vk.com/webrocketpro url:webrocket.pro addr:Большая_Бульварная-11 u:968
+				WebWeb place:Таганрог addr:Глушко-19 url:webweb.pro
+				Web-Aim place:Таганрог addr:Москатова-31-2 url:web-aim.ru tech:1C-Битрикс
+				2UP place:Ростов vk:vk.com/2upcompany u:339
+				разработка_интернет_магазинов_на_заказ alt-id:e-commerce
+					БелВиДжи place:Таганрог addr:Москатова-31-2 url:belvg.com tech:Magenta,PrestaShop,Oxid,Woocommerce,Shopify office:Riga,Минск
+					Rockbeam_Solutions place:Ростов hq:New_York
+				создание_сайтов_госорганизаций
+					Власть-Инфо place:Таганрог addr:Поляковское-16/3 url:власть-инфо.рф
+					Donspros place:Таганрог addr:Чехова-269 url:donspros.ru start:2009
+	разработка_программных_компонентов_и_плагинов
+		Afterlogic place:Таганрог addr:Гоголевский-6 url:afterlogic.com vk:vk.com/afterlogic u:1470 tech:Node.js start:2002 ppl:Максим_Скляров
+	разработка_собственного_программного_продукта
+		БРМЭИС-4У place:Таганрог vk:vk.com/ai_2016 u:265
+		СКБ_Контур place:Ростов product:Контур vk:vk.com/skbkontur url:kontur.ru addr:Красноармейская-200 u:32087
+		Neutrino_Software place:Таганрог addr:Гоголевский-118 vk:vk.com/neutrinosoft url:www.neutrinosoft.net:<na> u:70 tech:ASP.NET,IOS,Android
+		TradingView place:Ростов addr:Социалистическая-74 vk:vk.com/tradingviewru url:tradingview.com u:707
+		Turtle place:Ростов url:turtle.dev 
+		UKit place:Ростов hq:Москва vk:vk.com/ukitcom addr:Налбандяна-47 u:9268
+		разработка_ERP alt-id:автоматизация_бизнеса
+			Интернет_Фрегат place:Новочеркасск vk:vk.com/ifrigate addr:Баклановский-190 u:169
+			ИП_Пруц url:hssoft.com
+			Облачные_технологии place:Таганрог addr:Социалистическая-5 url:oblteh.ru tech:Pascal product:ИБИС
+			ОКБ_Сухого vk:vk.com/club219409 u:752 i:1
+			ТМ_Автоматика place:Таганрог addr:Лесная_Биржа-20б url:tmavt.ru product:ТМ_Диплом,ТМ_Приемная_комиссия_и_учебная_часть
+			Точка_Кипения related-to:Kinoplan.tech place:Ростов vk:vk.com/tochkak addr:Социалистическая-74 u:387
+			Философия.IT url:fil-it.ru
+			Insight place:Ростов url:ksu.in-al.ru
+			Kinoplan.tech place:Ростов vk:vk.com/kinoplan.tech u:69
+			LSoft place:Таганрог addr:Котлостроительная-37в url:lsoft-ru.com
+	разработка_трейдинговых_и_банковских_систем
+		Devexperts place:Ростов addr:Пять_Морей vk:vk.com/devexperts u:1042
+		ESignal place:Ростов addr:Купеческий_Двор vk:vk.com/club34724707 u:80
+		Olfa_Trade place:Ростов start:2011 url:olfa-trade.com addr:Купеческий_Двор
+	it_компании_неопределенной_категории
+		ДС_Барс place:Таганрог addr:Пархоменко-56 url:dcbars.ru
+		Интехпром place:Таганрог addr:Москатова-31-2 url:intechprom.io:<na>
+		Crucial_Brainware place:Таганрог url:crucialbrainware.ru addr:Октябрьская-44/1 tech:PHP,Javascript
+		Indigo_System place:Таганрог addr:Черняховского-9в url:indigosystem.ru tech:C++,assembly? start:2010
+		Intelino place:Таганрог addr:Чехова-29л url:intelino.com:<na> tech:PHP
+		; ITДжинн place:Таганрог addr:Александровская-71 url:itgeen.com
+		Marketinghelp place:Таганрог addr:Котлостроительная-33 url:marketinghelp.ru:<na>
+		Saifas place:Таганрог addr:Октябрьская_площадь-2 url:dev.saifas.com
+		Skylong place:Таганрог addr:Чехова-110 url:skylong.ru:<f>
+		ТедСофт place:Таганрог addr:Москатова-31-2
+сопровождение_ПО
+	сопровождение_баз_данных
+		DBI alt-id:Айти_Плей place:Таганрог,Ростов vk:vk.com/dbirostov addr:Москатова-31-2,Содружество url:dbi.ru u:275
+	настройка_и_поддержка_интернет_магазинов
+		Товары_и_услуги product:Tiu.ru place:Таганрог vk:vk.com/tiu_taganrog addr:Социалистическая-2 u:73
+	внедрение_и_сопровождение_ERP
+		CBoss place:Таганрог addr:Октябрьская-19,Гоголевский-6 url:cboss.ru tech:Oracle start:2008
+		Softline place:Таганрог addr:Чехова-144 url:softline.ru hq:Москва
+		1C 
+			Айтика place:Таганрог addr:Лермонтовский-17 url:1c-itk.ru
+			Аудит_Бюро place:Таганрог addr:Лермонтовский-7а url:audit-buro.ru
+			Бизнес_Интеллект old-addr:Плотникова-75 place:Таганрог addr:Москатова-31-2 url:biz-intel.ru
+			Гэндальф alt-id:Gendalf place:Ростов addr:Халтуринский-99 vk:vk.com/gendalf1c u:1379
+			Оптимум place:Ростов url:opteamum.ru addr:Крепостной-133 
+			Экспертные_Системы place:Таганрог addr:Социалистическая-2 url:exp-1c.ru
+			Энтерэго place:Таганрог addr:Москатова-31-2 url:enterego.ru hq:Москва
+			1С-Франчайзи_Вектор place:Таганрог addr:Менделеева-6 url:vectorfran.ru
+			IT-Прогресс place:Таганрог addr:Октябрьская-84 url:itprogress.ru
+			1С-Progress place:Ростов vk:vk.com/1cprogres u:20
+			ST-Support place:Таганрог addr:Петровская-116 url:st-support.ru

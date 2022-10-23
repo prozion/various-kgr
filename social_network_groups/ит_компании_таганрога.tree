@@ -1,0 +1,166 @@
+; rating: orabote.top, pravda-sotrudnikov.ru
+; sources
+; https://www.4sqstat.ru/taganrog?category_id=4bf58dd8d48988d124941735
+; vk.com/tagandev
+companies
+	1С-Франчайзи_Вектор addr:Менделеева-6 url:vectorfran.ru service:"разработка программных продуктов на основе 1С Предприятие" tech:1C
+	7pace-GmbH url:7pace.com
+	Ad5 addr:Комсомольский-12 url:ad5.ru service:сайты-визитки
+	Afterlogic addr:Гоголевский-6 url:afterlogic.com vk:vk.com/afterlogic tech:Node.js start:2002 ppl:Максим_Скляров
+	AlexStudio addr:Площадь_Мира-7 url:alexstudio.xyz:<f>
+	Arcadia addr:Тургеневский-2а url:arcadia.spb.ru qa:manual agile:Agile
+	Arisfera addr:Контрольный-6 url:arisfera.ru service:"разработка шаблонов сайтов, сайтов, seo, поддержка сайтов"
+	B-Hit addr:Энгельса-71
+	Bear_SAS alt-id:Bear2b,Amudo addr:Смирновский-39 url:bear2b.com tech:PHP,Android area:Augmented_Reality qa:manual
+	BlackBox addr:Петровская-51 tech:PHP,C#,Drupal,Magento,Laravel ppl:Стас_Хромых
+	Bloomex addr:Поляковское-16 url:bloomex.ca comment:"поддержка онлайн-магазина продажи цветов?" rate:1.5
+	Brainmaze addr:Москатова-31-2 url:brainmaze.net service:"интернет-магазин, брендинг, имиджевый сайт"
+	Bricksite addr:РЛюксембург-88а url:bricksite.ru vk:vk.com/bricksite service:"личный сайт, блог, сайт-визитка, интернет-магазин, корпоративный сайт, информационный портал"
+	buQ addr:Социалистическая-2 url:wsbuq.ru service:"разработка и продвижение сайтов"
+	CBoss addr:Октябрьская-19,Гоголевский-6 url:cboss.ru tech:Oracle start:2008
+	Ccube addr:Петровская-44 url:ccube.ru service:"разработка сайтов, графический дизайн"
+	; CoderTeam addr:Большой-46	url:coder-team.com vk:vk.com/thecoderteam
+	; Coleman url:coleman.ru
+	Creative addr:Дзержинского-91а url:art10.ru service:"широкоформатная печать, наружная реклама, полиграфия, вебсайты"
+	Crucial_Brainware url:crucialbrainware.ru addr:Октябрьская-44/1 tech:PHP,Javascript
+	Curogram addr:Чехова-144 url:curogram.com vk:vk.com/curogram tech:Node.js,Swift,Android_Java
+	CVisionLab addr:Северная_площадь-3 url:cvisionlab.com vk:vk.com/cvisionlab tech:С++,Deep_Machine_Learning
+	DBI addr:Москатова-31-2 url:dbi.ru service:"внедрение, кастомизация и удаленное сопровождение баз данных, приложений и операционных систем" office:Москва,Ростов-на-Дону
+	DevHouse addr:Петровская-15 url:devhouse.pro vk:vk.com/oslodevhouse tech:Node.js,.NET,Django,Angular,React,Ionic,React_Native office:Ставрополь,Oslo
+	Digital_Skynet addr:Гарибальди-24 url:digitalskynet.ru vk:vk.com/digitalskynet tech:.NET,Magento,Angular,React,Redux,Vue.js,Knockout.js
+	Distillery old-name:RusWizards addr:Некрасовский-75,Мариупольское-27-2-3 url:distillery.com vk:vk.com/distillerytech tech:RoR,Django,Angular,React,IOS,Android,Amazon,Azure
+	Dokit_Studio addr:Поляковское-16 url:dokit.ru:<f>
+	DonRiver addr:Петровская-89б url:donriver.com vk:vk.com/donriver tech:Java,Oracle office:Ростов-на-Дону,London,Toronto,Austin,Noida,Melbourne dir:"платежные системы" d:"отдел QA в Таганроге"
+	Donspros addr:Чехова-269 url:donspros.ru d:"создание и поддержка сайтов госорганизаций" start:2009
+	Dunice addr:Гоголевский-6 url:dunice.net vk:vk.com/dunice tech:Angular,React,Compass,HTML5,Redis,Node.js,AWS,RoR,Django
+	Electronic_Arts addr:Петровская-103а url:ea.com tech:С++
+	Exceed_Team addr:Нижняя_Линия-14,Тургеневский-11 url:exceed-team.com vk:vk.com/exceed.team tech:Node.js,RoR,Python,Laravel,React,Angular,Vue.js,JQuery,Ember.js,MongoDB,Redis,MsSQL,MySQL,PostreSQL,React_Native,Ionic,Cordova,PhoneGap ppl:Антон_Шишеня hr-vk:vk.com/kotelnikova1997
+	Exeko addr:Гоголевский-5 url:exeko.ru service:"маркетинговый креатив, копирайтинг, дизайн для малого и среднего бизнеса"
+	Feedvisor url:feedvisor.com hq:New_York
+	Failsafe_Codelines url:upwork.com/o/companies/~017517257ae062a03b tech:ASP.NET_MVC,.NET_Framework,.NET_Core,Web_API,Angular2,CSS,HTML5
+	Func addr:Москатова-31-2 url:func.ru office:Санкт-Петербург
+	Fusion addr:Петровская-51 url:fusion-team.com vk:vk.com/fusion_llc tech:Node.js,Django,Angular,React,data_science,machine_learning
+	Game_Insight addr:Петровская-51 url:game-insight.com tech:Cocos2d,C++
+	German_Web addr:Чехова-219 url:german-web.org vk:vk.com/germandevweb tech:UMI.CMS,WordPress,PrestaShop,Joomla client:Forres qa:manual
+	Hadrout addr:Александровская-29 url:hadrout.ru tech:PHP,ASP.NET,SEO office:Ferndale
+	Heapp_Games addr: url:http://heapp.games
+	I-Like addr:Цеховый-5а url:i-like10.ru tech:1C-Битрикс
+	Ifox-Studio addr:Восточная-59 url:ifox-studio.ru service:"написание текста, ведение блога, контент-воронка"
+	Imedia_Promotion addr:Большая_Бульварная-12 url:imedia161.ru tech:WordPress,Bitrix,Opencart,Joomla service:сайты-визитки,seo,smm,wifi-маркетинг
+	Incoding_Software addr:Греческая-19 url:incoding.biz tech:.NET start:2006
+	Indigo_System addr:Черняховского-9в url:indigosystem.ru tech:C++,assembly? start:2010
+	Inostudio addr:Октябрьская-39 url:inostudio.com vacancy:менеджер_проектов qa:manual
+	Inter-Web addr:3Линия-4 url:iw-studio.ru tech:1C-Битрикс
+	Intelino addr:Чехова-29л url:intelino.com:<na> tech:PHP
+	Intspirit addr:Поляковское-16 url:intspirit.com vk:vk.com/intspirit tech:.NET,PHP,RoR,Django,Node.js,MsSQL,MongoDB,Redis,Azure,EC2,GAE
+	IRadarpro addr:Украинский-21 url:iradarpro.ru service:"разработка логотипов и брендбуков, озвучка видео, видеопроизводство, адаптивные интернет-магазины, сайт турагентства под ключ"
+	; ITДжинн addr:Александровская-71 url:itgeen.com
+	IT-Прогресс addr:Октябрьская-84 url:itprogress.ru service:"предпроектный консалтинг, решения на базе 1С" tech:1C
+	Jaah addr:Итальянский-39 url:jaah.ru service:сайты,логотипы
+	JDILab addr:Некрасовский-51 url:jdi-lab.com tech:RoR,Kohana,Laravel,Zend,Angular,React,NoSQL service:web-interfaces
+	Join_Game addr:Петровская-26 url:join-game.com:<na> fb:facebook.com/joingametgn dir:games_development
+	LetMeCode addr:Социалистическая-7-1а url:letmecode.org vk:vk.com/letmecodeteam tech:Swift,Android 
+	Life-promo addr:Ломакина-110 url:life-promo.biz:<f> service:"создание сайтов, рекалма в соцмедиа, контекстная реклама, наполнение сайтов" start:2011
+	Lodoss_Team addr:Итальянский-12 url:lodossteam.ru vacancy:системный_аналитик qa:manual hr-vk:vk.com/juliaeros
+	LogicFlow addr:Глушко-19 url:logicflow.ru service:"проектирование локальных сетей, обслуживание серверов, web-разработка" tech:1C,.NET
+	LSoft addr:Котлостроительная-37в url:lsoft-ru.com service:"разработка систем учета предприятий"
+	Marketinghelp addr:Котлостроительная-33 url:marketinghelp.ru:<na>
+	Maxilect addr:<?> url:maxilect.ru tech:Java,Kotlin start:2015 office:Санкт-Петербург
+	Mentalstack addr:Петровская-51 url:mentalstack.com fb:facebook.com/mentalstack vk:vk.com/mentalstack tech:Node.js,.NET,Angular,React,Swift,Java,Kotlin,Ionic
+	Microfox addr:КЛибкнехта-47 url:microfox.ru service:"сайт-визитка, интернет-магазин, АИС, мобильное приложение для Android, iOS, Windows"
+	NameOne url:nameone.io vk:vk.com/nameone_llc tech:.NET,Python,Angular,React,ML office:Oslo
+	Newizze addr:Дзержинского-119а url:newizze.com vk:vk.com/newizze tech:HTML5,Node.js,Angular,React,Zend dir:"b2b, e-commerce"
+	Neutrino_Software addr:Гоголевский-118 url:www.neutrinosoft.net:<na> tech:ASP.NET,IOS,Android
+	Niktes addr:Котлостроительная-37в url:niktes.ru service:"ПО для микропроцессоров, производство электронных устройств"
+	NodaSoft addr:Чехова-250 url:nodasoft.com office:Москва,Санкт-Петербург,Астана
+	Novisse addr:2Широкая-2а url:novisse.ru vk:vk.com/novisse tech:PHP
+	Oggetto addr:РЛюксембург-49 url:ogetto.ru vk:vk.com/oggettoweb tech:Magento,Hybris d:"сотрудники компании занимаются бегом" qa:manual
+	On5Lab addr:Поляковское-16 url:onfivelab.com tech:RoR,Angular,React,HTML5,AWS
+	Opex_Analytics addr: url:opexanalytics.com tech: hq:Evanston
+	Orochi-Lab addr:РЛюксембург-240 url:orochi-lab.com service:"проектирование веб-проектов, разработка дизайна, продвижение сайта" tech:WordPress
+	Quantexlab addr:Поляковское-6 url:http://quantexlab.com tech:C++,C#,Java,Delphi d:"диагностическое оборудование для ремонта автомобилей" office:Buende
+	Rivalov addr:Дзержинского-91а url:rivalov.com service:"сайт-визитка, лэндинг, интернет-магазин, блог, форум, SEO, оптимизация, брендинг, мобильное приложение и игра, логотип"
+	Rubium addr:Гоголевский-27 phone:88634690718 url:rubium.ru:<f> service:"сайт-визитка, лендинг, персональный сайт, блог" tech:1C-Bitrix,Opencart,OctoberCMS start:2009
+	SamDesign addr:Котлостроительная-37-15 url:samdesign.ru service:сайты-визитки,лэндинги,инфографика
+	Saifas addr:Октябрьская_площадь-2 url:dev.saifas.com
+	; Shaurma_Lab addr:Петровская-28 url:moikrug.ru/companies/342243445 end:2013
+	Scenar addr:Петровская-99 url:scenar.com.ru
+	SetMeFirst addr:Александровская-29 url:setmefirst.ru service:"SEO, SMM, контекстная реклама в Yandex и Google, нативная реклама в СМИ"
+	Skylong addr:Чехова-110 url:skylong.ru:<f>
+	SmartDesign addr:Украинский-21 url:smart-design.pro service:"лендинг, сайт-визитка, бизнес сайт, интернет-магазин" tech:1С-Bitrix
+	SMM-Маяк addr:Чехова-43 url:vk.com/smm.volkov service:"продажа инфопродукта об SMM?"
+	SM-Service addr:Поляковское-16/3 url:sm-service.biz service:"аутсорсинг информационных технологий, проектирование локальных сетей и систем видеонаблюдения, поддержка 1С" tech:1C
+	Snow_Comers addr:Москатова-31-2 phone:+79515023400 d:"веб-студия"
+	Softech addr:Инструментальная-29/2 url:softech.ru tech:ArcGIS,C++,C#,Java,HTML5
+	Softline addr:Чехова-144 url:softline.ru hq:Москва
+	Storytelling_Software addr:Греческая-104а url:storytelling-software.com service:websites,mobapps,QA,enterprise_solutions agile:Scrum,XP,Lean,Kanban
+	ST-Support addr:Петровская-116 url:st-support.ru service:"1С консалтинг, продажа и обслуживание программ 1С Предприятие, 1С разработка" tech:1C
+	Suntegy addr:Смирновский-121к url:suntegy.com planned-office:Oslo start:2017
+	Sushkov_Brothers
+	; TaganTeam addr:Чехова-41 end:<?>
+	; TechRound url:tech-round.com:<na>
+	TutMee addr:Петровская-51 url:tutmee.ru tech:HTML5,React,Angular,Wordpress,1C-Битрикс,Magento,Symfony vacancy:project_manager
+	Umbrella_IT addr:Петровская-80 url:umbrellait.com qa:qa
+	Viatech addr:Котлостроительная-37в tech:.NET d:"онлайн b2b система бронирования туруслуг" 
+	Vision_Web addr:Котлостроительная-37-19 url:vision-web.ru service:разработка_сайтов,интернет-маркетинг
+	WebWeb addr:Глушко-19 url:webweb.pro service:"разработка сайтов для ИП"
+	Web-161 addr:Смирновский-10 url:web-161.ru service:"разработка и продвижение сайтов, копирайтинг, продвижение в соцсетях, наполнение и защита сайтов"
+	Web-Aim addr:Москатова-31-2 url:web-aim.ru tech:1C-Битрикс
+	WebSailors addr:Петровская-51 old-addr:Смирновский-39 url:websailors.pro vk:vk.com/websailors tech:JavaScript
+	WebIt_Expert addr:3Линия-4 url:webit-expert.com tech:Аспро
+	WebNets addr:1Новый-26 url:webnets.ru vk:vk.com/webnets d:"разработка сайтов-визиток"
+	; Wildmax addr:Москатова-31-2 url:wildmax.ru vk:vk.com/wildmax.company:<na> tech:RoR
+	WizardStudio addr:Чехова-22б url:wizard-studio.com service:"создание сайтов, рекламные фильмы, видеопрезентации, курсы дизайна"
+	XRobotics addr:Поляковское-16к service:"разработка пицца-робота" tech:Python,ROS
+	Xrom_Consulting_Group url:xromconsulting.com vk:vk.com/xromconsulting tech:Go,ASP.NET,RoR,Laravel,Node.js,Angular,Elixir,Magento,Unity,C#,C++,Java,Python,R,UML,BPMN,IDEF0,DFD,IDEF3 office:Санкт-Петербург ppl:Стас_Хромых
+	Авиаок addr:Греческая-74 url:aviaok.com tech:PXI,SCXI,VXI service:"CAD design, web apps, database apps, consultation about automation"
+	Айтика addr:Лермонтовский-17 url:1c-itk.ru tech:1C
+	Аудит_Бюро addr:Лермонтовский-7а url:audit-buro.ru tech:1C
+	АУП-Консалтинг addr:1Щемиловский,Социалистическая-7/3 url:aup-consulting.ru service:"продажа программ для бизнес-анализа, бухгалтерский учет"
+	Байт addr:Чехова-6 url:nppbyte.ru service:"система контроля и управления подвижного состава (ССПС), тиристорный преобразователь"
+	Бастион_Интегратор addr:Москатова-31-2 url:bastion-integrator.com tech:Project_Server,Project_Online,SharePoint,Office_365,ASP.NET
+	БелВиДжи addr:Москатова-31-2 url:belvg.com tech:Magenta,PrestaShop,Oxid,Woocommerce,Shopify office:Riga,Минск
+	Бизнес_Интеллект old-addr:Плотникова-75 addr:Москатова-31-2 url:biz-intel.ru tech:1C
+	БквСофт addr:Фрунзе-152 url:bkv-soft.com tech:1C-Битрикс
+	Веб_Информ_Сервис addr:Бакинская-49 url:wiserv.ru vk:vk.com/wiserv
+	Виброприбор addr:Лесная_Биржа-2 url:vibropribor.ru hq:Ярославль
+	Владислав_Ушаков addr:Гвардейский-7 url:usjakov.bz tech:1C-Битрикс,WordPress,Modx,Drupal,Joomla,Flash service:seo
+	Власть-Инфо addr:Поляковское-16/3 url:власть-инфо.рф service:"разработка сайтов для органов власти"
+	ВТопСайт addr:Очистная-18-4 url:vtopsait.ru:<f>
+	ДС_Барс	addr:Пархоменко-56 url:dcbars.ru qa:auto
+	; Ильтер end:<?>
+	Инициум addr:Поляковское-16б url:initium.ru tech:Laravel,Sympfony,Yii,.NET,Android_SDK,1C-Bitrix hq:Москва
+	Инновационные_технологии addr:Кузнечная-11/2 tech:Android
+	Инософт addr:Москатова-31-2 vk:vk.com/inosofteducation d:"центр обучения"
+	Интехпром addr:Москатова-31-2 url:intechprom.io:<na>
+	Интма addr:Поляковское-16 url:intma-group.ru d:"строительство и сервисное обслуживание энергоцентров" office:Челябинск
+	ИП_Пруц url:hssoft.com
+	КиберСеоПро addr:Энгельса-114 url:cyberseo.pro:<f> vk:vk.com/cyberseo:<f>
+	Комплексные_программные_решения addr:Шаумяна-19 url:kopr.ru product:АИС_Юстиция
+	Крайт addr:Глушко-19 url:krayt.ru vk:vk.com/krayt_studio tech:1C-Битрикс office:Москва,Ростов-на-Дону,Санкт-Петербург
+	Мастер-вебсайт addr:Черняховского-9в url:master-website.ru service:"сайты, реклама сайтов, продвижение сайтов, поддержка сайтов"
+	Медиа_Масс.Штаб addr:РЛюксембург-240-3 url:mass-shtab.ru:<f> vk:vk.com/mass.shtab service:"разработка ПО для мобильных платформ" start:2015 person:Юрий_Тимошенков
+	Медиком addr:Фрунзе-68 url:medicom-mtd.com tech:С++ product:"электоэнцефалографы, нейромиоанализаторы, реограф-полианализатор"
+	Медотрейд addr:Петровская-89б url:medotrade.ru dir:"медицинские системы"
+	Михаил_Куличенко addr:Дзержинского-189 url:mikul.ru:<na>
+	ТНИИС deabbr:"Таганрогский научно-исследовательский институт связи" addr:Седова-3 url:tniis.kret.com:<na>
+	НИЦ_суперЭВМ addr:Итальянский-106 url:superevm.ru tech:COLAMO start:1993
+	НКБ_ВС deabbr:"Научно-конструкторское бюро вычислительных систем" addr:1Линия-144а url:nkbvs.ru
+	НКБ_РУС deabbr:"Научное конструкторское бюро радиоэлектронных и управляющих систем" addr:Большая_Бульварная-10 url:nkbrus.ru fb:facebook.com/ooonkbrus tech:Raspberry_Pi,Raspbian,Python,C++,Node.js
+	Облачные_технологии addr:Социалистическая-5 url:oblteh.ru tech:Pascal product:ИБИС d:"медицинские информационные системы"
+	Планета_сайтов addr:Трудовых_Резервов-10 url:planetasajtov.ru service:"создание, наполнение, продвижение сайтов, услуги в соцсетях, создание лендингов"
+	Приматлаб addr:Глушко-19 url:primatlab.com service:"разработка математически нагруженного ПО"
+	ПРорок addr:Седова-2/2 url:reklama-taganrog.ru service:"реклама на транспорте, создание сайтов"
+	Протон-ССС addr:Большая_Бульварная-13 url:proton-sss.com product:"цифровая АТС, АТС IP-телефонии, системы конференцсвязи, электрообогрев стрелочных переводов"
+	Ралтэк addr:Шило-259 url:it.raltek.ru service:"установка сервера, разработка сайта, антивирус для бизнеса, сетевое оборудование Mikrotik"
+	Скайгор-Таганрог addr:Чехова-98а url:litagro.ru service:"бюджетная разработка лендингов, сайтов-визиток, интернет-магазинов"
+	Сокол addr:Петровская-111 url:webstudio-sokol.ru vk:vk.com/rabotaemdalshe service:"создание и продвижение сайтов" office:Новочеркасск
+	Спецстройсвязь addr:Большая_Бульварная-13 url:proton-sss.com vk:vk.com/protonsss tech:С++,Java
+	Студия_Прикладного_Дизайна alt-id:SPD addr:Тургеневский-17 url:spd-inter.net service:"сайты-визитки, корпоративные сайты, интернет-магазины, хостинг, доменные имена, написание текстов, логотипы"
+	ТедСофт addr:Москатова-31-2
+	ТМ_Автоматика addr:Донской-52 url:tmavt.ru product:ТМ_Диплом,ТМ_Приемная_комиссия_и_учебная_часть
+	Философия.IT url:fil-it.ru service:"ИТ-консалтинг, информационная безопасность, автоматизация бизнес-процессов, ERP" qa:manual
+	Экспертные_Системы addr:Социалистическая-2 url:exp-1c.ru tech:1C
+	Энтерэго addr:Москатова-31-2 url:enterego.ru tech:1C hq:Москва
+	Югсайт addr:Поляковское-16 url:yugsite.com tech:Joomla,WordPress,Opencart,1C-Битрикс,CodeIgniter,FuelPHP,Yii,Symfony
+	; ЮРКЦ_Земля addr:Октябрьская_площадь-4 url:srcc.ru:<na>

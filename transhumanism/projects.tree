@@ -1,0 +1,13 @@
+projects
+	Анализ_биотех_и_фарм_компаний org:Open_Longevity
+	База_данных_генов org:Open_Longevity url:open-genes.com
+	Виртуальный_НИИ org:Open_Longevity
+	Диагностика_старения org:Open_Longevity
+	Интернет_магазин_РТД org:РТД end:<t>
+	Клуб_Активное_долголетие org:РТД
+	Нанопроект org:РТД
+	Путь_апгрейда org:РТД
+	Системная_схема_старения_человека org:РТД,МТД
+	Школа_долголетия org:Open_Longevity
+	Школа_сингулярности org:РТД
+	Voice_Vision org:РТД

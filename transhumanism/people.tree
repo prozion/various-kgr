@@ -1,0 +1,47 @@
+people include-namespace:/_world/universities.tree,/_world/geoplaces.tree
+	russia
+		Алексей_Москалев bdate:1976 ht:Сыктывкар edu:СыктГУ job:Институт_биологии_Коми,СыктГУ,МФТИ projects:Расшифровка_генома_Myotis_brandtii books:Старение_и_гены theories:Фрактальная_гипотеза_старения
+		Алексей_Самыкин bdate:1982 ht:Москва edu:МПГУ job:КриоРус projects:РТД,Voice_Vision
+		Алексей_Турчин bdate:1973 ht:Москва job:Open_Longevity
+		Анастасия_Егорова bdate:1986 ht:Москва edu:МФТИ_ФБМФ,Британская_школа_дизайна job:Open_Longevity project:Longevity_Cook_Book
+		Валерия_Удалова alt:Валерия_Прайд bdate:1960 ht:Москва job:КриоРус projects:РТД,МТД,КриоРус,СССЧ
+		Виктор_Аргонов bdate:1979 ht:Владивосток edu:ДВФУ edu-grad:2001 job:Тихоокеанский_океанологический_институт projects:Виктор_Аргонов_Project,2032:_Легенда_о_несбывшемся_грядущем
+		Владимир_Анисимов bdate:1945 ht:Санкт-Петербург edu:1-й_Ленинградский_медицинский_интситут_им_Павлова job:НИИ_онкологии_им_Петрова editor:Успехи_геронтологии
+		Григорий_Мастридер bdate:1993 ht:Москва real-name:Григорий_Федоров edu:МГИМО job:Millennials_Media projects:Мастриды url:taplink.cc/mustreader
+		Данила_Медведев bdate:1979 ht:Санкт-Петербург,Москва edu:IMISP job:Новая_перевозочная_компания projects:КриоРус,РТД,СССЧ,НаноЛаб,Нейрокод,Утопия img:медведев1
+		Дарья_Халтурина bdate:1979 ht:Москва edu:РГГУ job:Институт_Африки
+		Дмитрий_Веремеенко bdate:1976 ht:Москва edu:МГОУ,Новый_гуманитарный_университет edu-spec:педагог_по_физкультуре,педагог-валеолог,маркетинг-реклама job:Open_Longevity projects:Nestarenie.ru
+		Дмитрий_Ицков bdate:1980 ht:Брянск,Москва,? edu:РЭУ_им_Плеханова old-job:Newmedia_Stars projects:Россия-2045
+		Дмитрий_Рязанов ddate:2005 ht:Екатеринбург founder:РТД projects:Bessmertie.ru
+		Елена_Милова bdate:1979 ht:Москва edu:МГОУ job:Lifespan.io
+		Игорь_Артюхов bdate:1954 ht:Балашиха job:ООО_Институт_биологии_старения projects:РТД
+		Игорь_Вишев bdate:1933 ht:Челябинск edu:МГУ job:ЮУрГУ
+		Игорь_Кирилюк bdate:1974 ht:Владивосток,Москва edu:ДВФУ job:Институт_Экономики projects:МТД
+		Михаил_Батин ht:Кострома,Москва job:Open_Longevity projects:Open_Longevity,Школа_долголетия,Территория_долголетия
+		Николай_Мушкамбаров bdate:1951 ht:Москва prof:Сеченовский_университет
+		Николай_Федоров bdate:1829 ddate:1903
+		Порфирий_Бахметьев bdate:1860 ddate:1913
+		Роман_Заболотников ht:Саратов,Санкт-Петербург job:IVAO projects:АПС
+		Станислав_Полозов bdate:1968 ht:Киев edu:КНУ_им_Шевченко co-founder:Технологии_Долголетия
+		Станислав_Скакун bdate:1983 ht:Москва job:BioData
+		Юрий_Пичугин bdate:1951 crdate:2018
+		Юрий_Хаит bdate:1967 ht:Санкт-Петербург edu:СПбГМТУ job:Гарант_Интернэшнл projects:Технологии_долголетия,RLE_Group
+		Ян_Корчмарюк bdate:1963 ht:Волгоград edu:ВолгГАСУ job:УНИТ_ВЦ_(ВолГТУ) projects:Сеттлеретика img:корчмарюк2
+	other_countries
+		Жак_Фреско
+		Макс_Мор
+		Марвин_Минский bdate:1927 ddate:2016 ht:Boston prof:MIT
+		Наташа_Вита-Мор
+		Рэймонд_Курцвейл
+		Роберт_Эттингер alt:Robert_Ettinger bdate:1918 crdate:2011 d:"основатель крионики"
+		Элицер_Юдковский
+		Эрик_Дрекслер
+		Aubrey_de_Grey ru:Обри_ди_Грей bdate:1963 edu:Trinity_Hall
+		Damien_Broderick ru:Дэмиен_Бродерик bdate:1944 ht:San_Antonio edu:Deakin_University former-prof:UMelbourne
+		David_Pearce ru:Дэвид_Пирс bdate:03.04.19xx
+		FM_2030 alt:Fereidoun_Esfandiary bdate:1930 crdate:2000
+		Julian_Huxley ru:Джулиан_Хаксли bdate:1887 ddate:1975 ht:London
+		Liz_Parrish
+		Nick_Bostrom ru:Ник_Бостром
+	under_question
+		Сергей_Фаге bdate:1985 ht:Москва edu:UCornell projects:BioData

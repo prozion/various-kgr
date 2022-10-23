@@ -1,0 +1,162 @@
+companies
+	AbbVie start:2013 hq:North_Chicago ol:big_pharma nasdaq:ABBV
+	Adaptive_Biotechnologies ol:weak_biotech nasdaq:ADPT
+	ADC_Therapeutics
+	Aduro_Biotech
+	Advaxis nasdaq:ADXS
+	AIM_ImmunoTech
+	Alderaan_Biotechnology
+	Alkermes_Inc
+	Amgen ol:strong_biotech nasdaq:AMGN
+	Arcus_Biosciences_Inc
+	Argenx
+	AstraZeneca
+	Atara_Biotherapeutics ol:believe_in_leaders nasdaq:ATRA twi:Atarabio
+	Avotres
+	Bavarian_Nordic
+	Baxter_Healthcare_Corporation
+	BioLingus
+	Bioniz_Therapeutics
+	Boehringer_Ingelheim
+	Borstkanker_Onderzoek_Groep
+	Boston_Immune
+	Bristol_Myers_Squibb
+	Caladrius_Biosciences
+	Cassava_Sciences ol:Altzheimer nasdaq:SAVA
+	Catalysis
+	Celgene
+	Celldex_Therapeutics
+	Cellect_Biotechnology
+	Cellenkos_Inc
+	Cellvie_Inc
+	Regimmune url:regimmune.com
+	Celularity start:2016 ceo:Robert_Hariri purchased-tech-from:Celgene_Corporation,Sorrento_Therapeutics,United_Theraupeutics,Human_Longevity
+	Centre_Leon_Berard
+	Chengdu_MedGenCell
+	Concordia_Laboratories
+	CytoDyn
+	Dana-Farber_Cancer_Institute
+	Danisco
+	DermTech_Inc ol:believe_in_technology nasdaq:DMTK
+	DiaVacs
+	Dicerna url:dicerna.com news-url:investors.dicerna.com/press-releases ol:believe_in_technology nasdaq:DRNA
+	Egle_Therapeutics
+	Eledon_Pharmaceuticals
+	Eli_Lilly_and_Company
+	EpiVax
+	Equillium_Inc
+	Exelixis ol:strong_biotech nasdaq:EXEL
+	French_Innovative_Leukemia_Organisation
+	Genentech
+	Genexine
+	GentiBio url:gentibio.com
+	Genzyme rel:Sanofi
+	Gilead_Sciences
+	Glenmark_Pharmaceuticals
+	GMP_BIO
+	Gritstone nasdaq:GRTS
+	GSK deabbr:GlaxoSmithKline
+	G1_Therapeutics ol:believe_in_leaders nasdaq:GTHX
+	Hanlim_Pharm
+	Heron_Therapeutics nasdaq:HRTX
+	Iltoo_Pharma
+	Immatics_Biotechnologies
+	Immunic_AG
+	Imugene_Limited
+	Incyte_Corporation
+	Inmunotek
+	Invectys
+	Inventiva_SA nasdaq:IVA
+	Janssen_Scientific_Affairs
+	Kiniksa_Parmaceuticals ol:weak_biotech nasdaq:KNSA
+	Kiromic_Inc
+	Ligand_Therapeutics ol:strong_biotech nasdaq:LGND
+	Longevity_Biotech
+	MacroGenics
+	Manresana_de_Micobacteriologica
+	McGill_University_Health_Centre
+	Medikine url:medikine.com
+	MedImmune
+	Merck rel:Pandion_Therapeutics
+	Mesoblast_Inc
+	MindMed
+	Moderna
+	Moleculin_Biotech nasdaq:MBRX
+	Natera nasdaq:NTRA
+	Nektar_Therapeutics
+	Novartis_Pharmaceuticals
+	Novo_Nordisk
+	Numeric_Biotech
+	Ocular_Therapeutix
+	Ono_Pharmaceutical
+	Oramed_Pharmaceuticals hq:Jerusalem
+	Orca_Biosystems
+	Pandion_Therapeutics nasdaq:PAND
+	Pelican_Therapeutics
+	Pfizer ol:big_pharma nasdaq:PFE
+	Poseida_Therapeutics
+	Prometheus_Laboratories
+	Quanterix_Corporation hq:Billerica nasdaq:QTRX
+	Quell_Therapeutics
+	Rapa_Therapeutics
+	Regeneron_Pharmaceuticals ol:strong_biotech nasdaq:REGN
+	Regimmune
+	Revalesio_Corporation
+	Sangamo_Therapeutics nasdaq:SGMO
+	Sanofi nasdaq:SNY
+	SciClone_Pharmaceuticals
+	Seelos nasdaq:SEEL
+	Syndax_Pharmaceuticals
+	Takeda_Pharmaceuticals ol:big_pharma nasdaq:TAK
+	Targazyme url:targazyme.com
+	TeraImmune
+	Thomas_Jefferson_University
+	Tiziana_Life_Sciences
+	Tizona_Therapeutics
+	Transgene
+	Transmedics_Group_Inc ol:believe_in_technology
+	Trex_Bio
+	Trillium_Therapeutics ol:believe_in_technology market-cap:1.32G nasdaq:TRIL
+	Turnstone
+	UBP_Greater_China_Co
+	United_BioPharma
+	VBI_Vaccines
+	Veloxis_Pharmaceuticals
+	Verastem
+	Vir_Biotechnology nasdaq:VIR
+	Xyphos url:xyphosinc.com
+	20/20_Global
+	Compass_Pathways
+	Numinus_Wellness
+	gene_sequencing
+		Архимед start:2005 hq:Москва url:arhimedlab.ru service:ba
+		Гемотест start:2003,2007 hq:Москва url:gemotest.ru service:ba
+		ДНКОМ
+		Инвитро start:1998 hq:Москва url:invitro.ru service:ba
+		Ситилаб start:2004 hq:Москва url:new.citilab.ru service:ba
+		AncestryDNA service:gs
+		Biocad hq:Санкт_Петербург url:biocad.ru
+		CMD start:2008 hq:Москва url:cmd-online.ru service:ba
+		Color_Genomics service:gs
+		Complete_Genomics service:gs
+		Dante_Labs service:gs
+		Family_Tree_DNA service:gs
+		Gencove service:gs
+		Genomelink service:gs
+		Genos_Exome service:gs
+		Haplogroups service:gs
+		Helix service:gs
+		Illumina url:illumina.com service:gs
+		KDL start:2003 hq:Москва url:kdl.ru service:ba
+		Mayo_GeneGuide service:gs
+		Microbiome service:gs
+		MorphoSys
+		Natera_Panorama_V3 service:gs
+		Nebula_Genomics service:gs
+		NIPT service:gs
+		Novartis
+		Raw_Genotypes service:gs
+		Sangamo_Therapeutics
+		Veritas_Genetics service:gs
+		X-Ray
+		23andMe service:gs

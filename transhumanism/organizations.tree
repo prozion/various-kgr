@@ -1,0 +1,150 @@
+organizations include-namespace:/_world/geoplaces.tree
+	ngo
+		МТД deabbr:"Международное трансгуманистическое движение" start:2019 hq:Москва url:thworld.org
+		Россия_2045 start:2011 end:2017 founder:Дмитрий_Ицков url:2045.ru
+		РТД deabbr:"Российское трансгуманистическое движение" start:2005 hq:Москва url:transhumanism-russia.ru
+		Aleph url:aleph.se
+		2045_Initiative
+		AFT_Technoprog deabbr:"Association française transhumaniste" start:2007
+		American_Transhumanist_Society
+		Arizona_Transhumanist_Society
+		Asociacion_Transhumanista
+		BCI_Society
+		Betterhumans
+		Biohack.me
+		BioTrove_Investments
+		BioViva
+		BLTC_Research
+		Brighter_Brains_Institute
+		British_Institute_of_posthuman_Studies
+		Carboncopies
+		Centre_for_Applied_Extropy
+		Centre_for_the_Study_of_Existential_Risk
+		Changesurfer_Radio
+		Christian_Transhumanist_Association
+		Coalition_to_Extend_Life
+		Cyberlife
+		Cyborg_Anthropology
+		Democratic_Transhumanism
+		DIY_Hplus
+		Ecstadelc_Media
+		Eternal_Life_Fan_Club
+		Eudoxa
+		Evolution_2045 before:Россия_2045
+		Extrobritannia
+		Fight_Aging!
+		Foresight_Institute
+		Fractal_Future_Network
+		Future_of_Humanity_Institute
+		Humanity+ before:World_Transhumanist_Association start:1998 founder:David_Pearce
+		IEET deabbr:"Institute for Ethics and Emerging Technologies"
+		Institute_for_Ethics_and_Emerging_Technologies
+		Institute_for_Social_Futurism end:<t>
+		International_Academic_Transhumanist_Association
+		International_Longevity_Alliance
+		LEAF deabbr:"Life Extension Advocacy Foundation"
+		Less_Wrong
+		Lifeboat_Foundation
+		Life_Extension_Advocacy_Foundation
+		Lifetimes_Infinity
+		London_Futurists
+		Long_Long_Life
+		LongeCity
+		Machine_Intelligence_Research_Institute
+		MIRI deabbr:"Machine Intelligence Research Institute"
+		Modern_Meadow
+		Mormon_Transhumanist_Association
+		Movement_for_Indefinite_Life_Extension
+		Network_Society
+		Nygård_Biotech
+		Open_Longevity alt:Фонд_«Наука_за_продление_жизни» start:2007
+		Organizacion_Mundial_del_Transhumanismo
+		Orions_Arm_Universe_Project
+		People_for_the_Ethical_Treatment_of_Reinforcement_Learners
+		People_Unlimited
+		Posthuman_Network
+		Robot_Overlordz
+		Science_for_Life_Extension_Foundation
+		Science_Technology_and_the_Future
+		Scientific_Transhumanism
+		SENS_Research_Foundation deabbr:"Strategies for Engineered Negligible Senescence" start:2009 hq:Mountain_View hd:Aubrey_de_Grey
+		Singularity_Hub
+		Singularity_Metaverse
+		Singularity_University
+		Suomen_Transhumanistiliitto
+		TechnoLibertarian_Wiki
+		Terasem_Movement
+		The_Edge_of_Living_Memory
+		The_Foundation
+		The_Future_And_You
+		The_Futurist_Foundation
+		The_Institute_of_Unnecessary_Research
+		The_Rational_Argumentator
+		Transcendo
+		Transdisciplinary_Agora_for_Future_Discussions
+		Transhuman_National_Committee
+		Transhuman_Policy_Center
+		Transhumanism country:Australia
+		Transhumanism_Uruguay
+		Transhumanism_Wiki
+		Transhumanismus_Extropismus_Technooptimismus
+		Transhumanist_community
+		Transhumanist_Cooperative_Colloquium
+		Transhumanist_National_Committee_LLC
+		Transpolitica
+		Transtopia active:1999-2004
+		Turing_Church
+		UK_Transhumanist_Association
+		UKH+
+		Vitae_Institute
+		Wave_chronicle
+		Zero_State
+	cryonics_organisations
+		Alcor_Life_Extension_Foundation
+		American_Cryonics_Society
+		Cryo-Care_Equipment_Corporation
+		CryoCare
+		CryoNet
+		Cryonics_Association_of_Australasia
+		Cryonics_Europe
+		Cryonics_Institute
+		Cryonics_Society_of_Canada
+		Cryonics_UK
+		Humai
+		Immortalist_Society
+		Life_Extension_Soociety
+		Lifespan_Society_of_British_Columbia
+		Oregon_Cryonics
+		Society_for_Venturism
+		Statis_Systems
+		Suspended_Animation
+		UK_Cryonics_and_Cryopreservation_Research_Network
+	political_parties
+		Arizona_Transhumanist_Party
+		California_Transhumanist_Party
+		Coalition_to_Extend_Life
+		Democratic_Transhumanism
+		Evolution_2045
+		Longevity_Party
+		Longevity_Party_US
+		Maryland_Transhumanist_Party
+		Nevada_Transhumanist_Party
+		Parti_Transhumaniste_France
+		Party_for_Health_Research
+		Srpska_levica
+		Star_Party
+		The_AI_Party
+		Transhuman_National_Committee
+		Transhuman_Policy_Center
+		Transhumane_Partei_Deutchland
+		Transhumanist_National_Committee_LLC
+		Transhumanist_Party_Australia
+		Transhumanist_Party_Global
+		Transhumanist_Party_of_Colorado
+		Transhumanist_Party_Virtual
+		Transhumanist_Party_UK
+		Transpolitica
+		US_Transhumanist_Party
+		Venus_Project
+		Washington_DC_Transhumanist_Party
+		Zero_State
