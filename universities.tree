@@ -1,4 +1,4 @@
-university keys-order:alt-id,lat-id,deabbr,abbr,rus-abbr,name,nick,hq,start,url,part-of,member,merged-to,merge-of,ref
+university +a:University keys-order:alt-id,lat-id,deabbr,abbr,rus-abbr,name,nick,hq,start,url,part-of,member,merged-to,merge-of,ref
 	africa
 		south_africa
 			UStellenbosch name:"Stellenbosch University" hq:Stellenbosch start:1918
